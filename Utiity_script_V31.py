@@ -3,6 +3,5 @@ class Person_New:
     self.name = name
     self.age = age
 
-#Test
   def myfunc(self):
     print("Hello my name is " + self.name)
