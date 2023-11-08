@@ -1,0 +1,1131 @@
+﻿Branch_ID,Category,Current_Stock,Expiration_In_Days,Inventory_Id,Item_Name,Min_Threshold,Purchase_Rate,Supplier_Name,Unit,Unit_Scale,purchase_date
+LG-New Delhi,Dairy and Dairy Alternatives,14,7,IT8402,Almond Milk,22,13,Sandeep,40,L,06-08-2023
+LG-New Delhi,Other Staples,10,180,IT6650,Baking Powder,23,13,Amit,35,L,6/15/2023
+LG-New Delhi,Vegetables,40,2,IT1321,Spinach,20,12,Ankit,50,KG,06-01-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT4944,Aprons,23,85,Mohit,40,N,06-05-2023
+LG-New Delhi,Other Staples,28,180,IT1794,Pasta,23,12,Amit,35,L,06-02-2023
+LG-New Delhi,Grains and Pulses,40,240,IT9934,Chickpeas,30,11,Aman,52,KG,6/13/2023
+LG-New Delhi,Dairy and Dairy Alternatives,18,7,IT3873,Coconut Milk,22,12,Sandeep,40,L,06-04-2023
+LG-New Delhi,Herbs and Spices,27,60,IT6541,Ginger,25,12,Akhilesh,60,KG,06-03-2023
+LG-New Delhi,Dairy and Dairy Alternatives,18,7,IT4881,Cream,22,11,Sandeep,38,L,06-07-2023
+LG-New Delhi,Other Staples,28,180,IT5163,Salt,23,12,Amit,30,L,06-07-2023
+LG-New Delhi,Vegetables,40,2,IT2038,Cabbage,20,9,Ankit,41,KG,06-06-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT5951,Cleaning Brushes,23,96,Mohit,40,N,06-07-2023
+LG-New Delhi,Cleaning and Non-Food Items,18,180,IT5111,Food Storage Containers,23,81,Mohit,40,N,6/13/2023
+LG-New Delhi,Herbs and Spices,12,60,IT8994,Ginger,25,13,Akhilesh,32,KG,06-11-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3810,Toilet Paper,23,31,Mohit,40,N,06-11-2023
+LG-New Delhi,Meat and Protein,38,2,IT9395,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,31,KG,6/14/2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT8742,Coconut Milk,22,13,Sandeep,40,L,06-02-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3809,Cleaning Brushes,23,55,Mohit,32,N,6/15/2023
+LG-New Delhi,Dairy and Dairy Alternatives,21,7,IT9950,Coconut Milk,22,13,Sandeep,40,L,6/30/2023
+LG-New Delhi,Cleaning and Non-Food Items,12,180,IT6450,Aprons,23,25,Mohit,31,N,6/19/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT0554,Mop and Bucket,23,13,Mohit,40,N,6/20/2023
+LG-New Delhi,Other Staples,28,180,IT7160,Yeast,23,11,Amit,30,L,6/28/2023
+LG-New Delhi,Grains and Pulses,40,240,IT8594,"Lentils (Masoor, Moong, etc.)",30,11,Aman,49,KG,6/20/2023
+LG-New Delhi,Other Staples,28,180,IT0409,Sugar,23,13,Amit,35,L,6/22/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3331,Paper Towels,23,83,Mohit,40,N,6/25/2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT9261,Almond Milk,22,13,Sandeep,26,L,6/25/2023
+LG-New Delhi,Vegetables,40,2,IT6023,Carrots,20,7,Ankit,50,KG,6/21/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT8978,Broom and Dustpan,23,9,Mohit,40,N,6/24/2023
+LG-New Delhi,Cleaning and Non-Food Items,20,180,IT5253,Hand Sanitizer,23,11,Mohit,32,N,6/24/2023
+LG-New Delhi,Vegetables,40,2,IT8162,Bell Peppers,20,5,Ankit,50,KG,6/16/2023
+LG-New Delhi,Meat and Protein,26,2,IT3512,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,45,KG,6/30/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT5152,Hand Sanitizer,23,12,Mohit,30,N,6/24/2023
+LG-New Delhi,Vegetables,20,2,IT2070,Onions,20,4,Ankit,50,KG,6/15/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT8122,Gloves (Disposable and Reusable),23,10,Mohit,28,N,6/28/2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT0288,Milk,22,12,Sandeep,27,L,6/29/2023
+LG-New Delhi,Other Staples,28,180,IT5895,Salt,23,11,Amit,26,L,6/26/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT1844,Food Storage Containers,23,50,Mohit,37,N,6/17/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT6073,Food Storage Containers,23,56,Mohit,40,N,6/24/2023
+LG-New Delhi,Vegetables,40,2,IT9114,Carrots,20,7,Ankit,48,KG,6/20/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT0660,Dishwashing Soap,23,11,Mohit,40,N,6/23/2023
+LG-New Delhi,Meat and Protein,38,2,IT9621,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,45,KG,6/28/2023
+LG-New Delhi,Cleaning and Non-Food Items,17,180,IT3818,Paper Towels,23,78,Mohit,40,N,6/22/2023
+LG-New Delhi,Other Staples,28,180,IT9906,Sugar,23,11,Amit,35,L,6/15/2023
+LG-New Delhi,Herbs and Spices,36,60,IT0690,Curry Leaves,25,12,Akhilesh,39,KG,6/16/2023
+LG-New Delhi,Other Staples,28,180,IT4100,Noodles,23,9,Amit,27,L,06-12-2023
+LG-New Delhi,Meat and Protein,38,2,IT0951,"Beef (Ground, Steak, etc.)",26,13,Aakash,45,KG,6/14/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT5658,Cleaning Cloths,23,9,Mohit,40,N,06-01-2023
+LG-New Delhi,Grains and Pulses,39,240,IT0215,Cornmeal,30,11,Aman,48,KG,06-09-2023
+LG-New Delhi,Other Staples,28,180,IT5306,Yeast,23,9,Amit,35,L,06-11-2023
+LG-New Delhi,Grains and Pulses,15,240,IT9032,Split Peas,30,12,Aman,47,KG,06-01-2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT7386,Butter,22,9,Sandeep,40,L,06-07-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT9347,Takeout Containers,23,21,Mohit,40,N,06-12-2023
+LG-New Delhi,Dairy and Dairy Alternatives,21,7,IT2400,"Cheese (Cheddar, Mozzarella, etc.)",22,13,Sandeep,25,L,06-12-2023
+LG-New Delhi,Grains and Pulses,10,240,IT0220,Quinoa,30,11,Aman,47,KG,6/15/2023
+LG-New Delhi,Dairy and Dairy Alternatives,11,7,IT4409,Milk,22,13,Sandeep,40,L,06-01-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT9545,Aprons,23,56,Mohit,23,N,06-03-2023
+LG-New Delhi,Cleaning and Non-Food Items,11,180,IT0201,Food Storage Containers,23,9,Mohit,40,N,6/13/2023
+LG-New Delhi,Herbs and Spices,40,60,IT6875,Coriander Powder,25,9,Akhilesh,26,KG,06-05-2023
+LG-New Delhi,Grains and Pulses,40,240,IT1885,"Lentils (Masoor, Moong, etc.)",30,13,Aman,41,KG,06-03-2023
+LG-New Delhi,Meat and Protein,38,2,IT6702,"Pork (Chops, Tenderloin, etc.)",26,11,Aakash,43,KG,06-07-2023
+LG-New Delhi,Vegetables,40,2,IT7928,Broccoli,20,12,Ankit,50,KG,06-09-2023
+LG-New Delhi,Other Staples,23,180,IT0784,Pasta,23,13,Amit,35,L,6/15/2023
+LG-New Delhi,Vegetables,10,2,IT1573,Broccoli,20,11,Ankit,50,KG,06-08-2023
+LG-New Delhi,Cleaning and Non-Food Items,25,180,IT0683,Food Labels and Markers,23,47,Mohit,35,N,06-04-2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT0867,Almond Milk,22,13,Sandeep,40,L,06-05-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT1398,Gloves (Disposable and Reusable),23,22,Mohit,27,N,6/14/2023
+LG-New Delhi,Herbs and Spices,40,60,IT1647,Turmeric Powder,25,13,Akhilesh,60,KG,06-08-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT9857,Foil and Plastic Wrap,23,98,Mohit,40,N,6/15/2023
+LG-New Delhi,Other Staples,18,180,IT0688,Salt,23,13,Amit,35,L,06-06-2023
+LG-New Delhi,Herbs and Spices,11,60,IT3084,Red Chili Powder,25,9,Akhilesh,60,KG,06-10-2023
+LG-New Delhi,Grains and Pulses,40,240,IT7124,Chickpeas,30,11,Aman,45,KG,06-02-2023
+LG-New Delhi,Vegetables,20,2,IT8793,Tomatoes,20,17,Ankit,50,KG,06-05-2023
+LG-New Delhi,Grains and Pulses,40,240,IT8812,Split Peas,30,12,Aman,46,KG,6/13/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT0784,Hand Sanitizer,23,13,Mohit,34,N,06-10-2023
+LG-New Delhi,Grains and Pulses,40,240,IT1010,Chickpeas,30,11,Aman,54,KG,06-02-2023
+LG-New Delhi,Herbs and Spices,24,60,IT8752,Curry Leaves,25,12,Akhilesh,60,KG,6/13/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT6447,Food Storage Containers,23,57,Mohit,40,N,6/15/2023
+LG-New Delhi,Vegetables,40,2,IT8358,Green Beans,20,12,Ankit,50,KG,06-08-2023
+LG-New Delhi,Meat and Protein,38,2,IT9265,Tofu,26,12,Aakash,45,KG,06-01-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT1574,Disinfectant Spray,23,9,Mohit,40,N,06-09-2023
+LG-New Delhi,Vegetables,33,2,IT9225,Green Beans,20,9,Ankit,50,KG,06-07-2023
+LG-New Delhi,Meat and Protein,16,2,IT5448,"Pork (Chops, Tenderloin, etc.)",26,13,Aakash,45,KG,6/15/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT6237,Hand Sanitizer,23,13,Mohit,40,N,06-11-2023
+LG-New Delhi,Herbs and Spices,40,60,IT3636,Coriander Powder,25,11,Akhilesh,45,KG,06-10-2023
+LG-New Delhi,Herbs and Spices,40,60,IT5579,Garlic,25,12,Akhilesh,57,KG,6/13/2023
+LG-New Delhi,Meat and Protein,38,2,IT7751,"Beef (Ground, Steak, etc.)",26,11,Aakash,45,KG,06-05-2023
+LG-New Delhi,Grains and Pulses,40,240,IT9529,Cornmeal,30,9,Aman,55,KG,06-02-2023
+LG-New Delhi,Other Staples,15,180,IT2749,Pasta,23,13,Amit,35,L,06-11-2023
+LG-New Delhi,Other Staples,28,180,IT1430,Sugar,23,11,Amit,35,L,06-04-2023
+LG-New Delhi,Grains and Pulses,16,240,IT4367,Split Peas,30,12,Aman,55,KG,06-12-2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3538,Dishwashing Soap,23,11,Mohit,32,N,06-01-2023
+LG-Chandigarh,Cleaning and Non-Food Items,28,180,IT4106,Cleaning Brushes,23,86,Mohit,39,N,06-03-2023
+LG-Chandigarh,Meat and Protein,38,2,IT5198,"Fish (Salmon, Tilapia, etc.)",26,11,Aakash,45,KG,06-09-2023
+LG-Chandigarh,Dairy and Dairy Alternatives,11,7,IT9274,Butter,22,12,Sandeep,40,L,06-04-2023
+LG-Chandigarh,Herbs and Spices,14,60,IT6586,Coriander Powder,25,11,Akhilesh,36,KG,06-03-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT8416,Food Storage Containers,23,28,Mohit,40,N,06-08-2023
+LG-Chandigarh,Meat and Protein,38,2,IT9107,"Pork (Chops, Tenderloin, etc.)",26,11,Aakash,39,KG,6/13/2023
+LG-Chandigarh,Other Staples,28,180,IT1104,Yeast,23,9,Amit,27,L,06-01-2023
+LG-Chandigarh,Herbs and Spices,34,60,IT4567,Bay Leaves,25,9,Akhilesh,45,KG,6/14/2023
+LG-Chandigarh,Other Staples,28,180,IT8466,Sugar,23,13,Amit,31,L,06-07-2023
+LG-Chandigarh,Other Staples,21,180,IT9164,Noodles,23,11,Amit,35,L,06-03-2023
+LG-Chandigarh,Cleaning and Non-Food Items,10,180,IT8240,Foil and Plastic Wrap,23,87,Mohit,40,N,06-09-2023
+LG-Chandigarh,Grains and Pulses,16,240,IT8277,"Lentils (Masoor, Moong, etc.)",30,12,Aman,31,KG,06-09-2023
+LG-Chandigarh,Cleaning and Non-Food Items,26,180,IT4380,Aprons,23,36,Mohit,29,N,06-02-2023
+LG-Chandigarh,Herbs and Spices,40,60,IT1533,Curry Leaves,25,9,Akhilesh,60,KG,6/14/2023
+LG-Chandigarh,Vegetables,40,2,IT0029,Spinach,20,13,Ankit,50,KG,06-03-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT9053,Trash Bags,23,11,Mohit,29,N,06-03-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT2426,Cleaning Brushes,23,78,Mohit,40,N,06-03-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT7365,Disinfectant Spray,23,12,Mohit,40,N,06-09-2023
+LG-Chandigarh,Grains and Pulses,40,240,IT9559,Quinoa,30,13,Aman,52,KG,06-03-2023
+LG-Chandigarh,Meat and Protein,38,2,IT3969,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,45,KG,6/15/2023
+LG-Chandigarh,Meat and Protein,38,2,IT4580,"Pork (Chops, Tenderloin, etc.)",26,9,Aakash,45,KG,06-09-2023
+LG-Chandigarh,Dairy and Dairy Alternatives,30,7,IT0504,Cream,22,13,Sandeep,37,L,06-10-2023
+LG-Chandigarh,Cleaning and Non-Food Items,22,180,IT8210,Takeout Containers,23,43,Mohit,35,N,06-08-2023
+LG-New Delhi,Vegetables,40,2,IT3119,Spinach,20,13,Ankit,50,KG,6/21/2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT7401,Butter,22,11,Sandeep,40,L,6/18/2023
+LG-New Delhi,Herbs and Spices,40,60,IT4487,Bay Leaves,25,11,Akhilesh,60,KG,6/15/2023
+LG-New Delhi,Vegetables,40,2,IT8190,Carrots,20,7,Ankit,21,KG,6/29/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT9222,Aprons,23,12,Mohit,40,N,6/17/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT1775,Dishwashing Soap,23,13,Mohit,40,N,6/20/2023
+LG-New Delhi,Vegetables,20,2,IT5037,Green Beans,20,12,Ankit,50,KG,6/25/2023
+LG-New Delhi,Herbs and Spices,40,60,IT0079,Coriander Powder,25,11,Akhilesh,31,KG,6/26/2023
+LG-New Delhi,Grains and Pulses,40,240,IT7537,"Lentils (Masoor, Moong, etc.)",30,11,Aman,39,KG,6/30/2023
+LG-New Delhi,Other Staples,28,180,IT3227,Vinegar,23,11,Amit,32,L,6/16/2023
+LG-New Delhi,Cleaning and Non-Food Items,19,180,IT9741,Trash Bags,23,11,Mohit,26,N,6/30/2023
+LG-New Delhi,Meat and Protein,11,2,IT1076,Tofu,26,13,Aakash,36,KG,6/29/2023
+LG-New Delhi,Other Staples,28,180,IT9156,Baking Powder,23,9,Amit,35,L,6/24/2023
+LG-New Delhi,Grains and Pulses,40,240,IT8519,Chickpeas,30,12,Aman,55,KG,6/28/2023
+LG-New Delhi,Dairy and Dairy Alternatives,11,7,IT6662,Milk,22,12,Sandeep,40,L,6/26/2023
+LG-New Delhi,Herbs and Spices,40,60,IT2856,Ginger,25,13,Akhilesh,50,KG,6/29/2023
+LG-New Delhi,Vegetables,40,2,IT4333,Carrots,20,11,Ankit,48,KG,6/30/2023
+LG-New Delhi,Vegetables,32,2,IT7259,Carrots,20,7,Ankit,25,KG,6/29/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT2616,Plastic Cutlery,23,74,Mohit,40,N,6/24/2023
+LG-New Delhi,Meat and Protein,38,2,IT1819,Tofu,26,9,Aakash,45,KG,6/30/2023
+LG-New Delhi,Vegetables,34,2,IT0528,Spinach,20,13,Ankit,50,KG,6/15/2023
+LG-New Delhi,Dairy and Dairy Alternatives,29,7,IT5771,Yogurt,22,13,Sandeep,40,L,6/30/2023
+LG-New Delhi,Other Staples,23,180,IT3270,Salt,23,11,Amit,35,L,6/27/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT7798,Foil and Plastic Wrap,23,32,Mohit,40,N,6/26/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3731,Aprons,23,6,Mohit,40,N,6/20/2023
+LG-New Delhi,Herbs and Spices,40,60,IT9806,Bay Leaves,25,13,Akhilesh,60,KG,6/23/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT0782,Food Storage Containers,23,32,Mohit,40,N,6/25/2023
+LG-New Delhi,Herbs and Spices,12,60,IT2190,Bay Leaves,25,11,Akhilesh,36,KG,6/21/2023
+LG-New Delhi,Herbs and Spices,40,60,IT9642,Cumin Seeds,25,12,Akhilesh,60,KG,6/30/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT0049,Dishwashing Detergent,23,13,Mohit,40,N,6/15/2023
+LG-New Delhi,Grains and Pulses,40,240,IT3302,Wheat Flour,30,11,Aman,55,KG,6/20/2023
+LG-New Delhi,Herbs and Spices,21,60,IT7374,Garam Masala,25,13,Akhilesh,59,KG,6/26/2023
+LG-New Delhi,Meat and Protein,38,2,IT9757,"Beef (Ground, Steak, etc.)",26,11,Aakash,45,KG,6/27/2023
+LG-New Delhi,Dairy and Dairy Alternatives,30,7,IT1940,Cream,22,13,Sandeep,40,L,6/19/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT6746,Foil and Plastic Wrap,23,90,Mohit,33,N,6/30/2023
+LG-New Delhi,Vegetables,40,2,IT1849,Potatoes,20,9,Ankit,50,KG,6/30/2023
+LG-New Delhi,Cleaning and Non-Food Items,29,180,IT3108,Dishwashing Detergent,23,11,Mohit,40,N,6/24/2023
+LG-New Delhi,Other Staples,28,180,IT9878,Noodles,23,9,Amit,35,L,6/21/2023
+LG-New Delhi,Meat and Protein,12,2,IT2964,Eggs,26,9,Aakash,39,KG,6/24/2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT3863,Plastic Cutlery,23,42,Mohit,40,N,06-02-2023
+LG-Chandigarh,Grains and Pulses,37,240,IT2038,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,55,KG,06-08-2023
+LG-Chandigarh,Vegetables,11,2,IT1937,Broccoli,20,12,Ankit,32,KG,06-07-2023
+LG-Chandigarh,Grains and Pulses,40,240,IT8527,Chickpeas,30,13,Aman,44,KG,06-11-2023
+LG-Chandigarh,Herbs and Spices,40,60,IT7957,Garlic,25,13,Akhilesh,60,KG,06-02-2023
+LG-Chandigarh,Dairy and Dairy Alternatives,26,7,IT3868,Butter,22,13,Sandeep,35,L,06-09-2023
+LG-Chandigarh,Meat and Protein,38,2,IT2604,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,45,KG,6/15/2023
+LG-Chandigarh,Vegetables,40,2,IT2888,Bell Peppers,20,10,Ankit,25,KG,6/14/2023
+LG-Chandigarh,Meat and Protein,14,2,IT9323,"Beef (Ground, Steak, etc.)",26,11,Aakash,26,KG,06-03-2023
+LG-Chandigarh,Dairy and Dairy Alternatives,30,7,IT8658,Yogurt,22,9,Sandeep,40,L,06-03-2023
+LG-Chandigarh,Other Staples,18,180,IT6158,Vinegar,23,12,Amit,35,L,06-05-2023
+LG-Chandigarh,Vegetables,40,2,IT8311,Onions,20,14,Ankit,50,KG,06-10-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT9284,Gloves (Disposable and Reusable),23,33,Mohit,39,N,06-04-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT0534,Trash Bags,23,12,Mohit,35,N,06-06-2023
+LG-Chandigarh,Vegetables,40,2,IT3329,Bell Peppers,20,5,Ankit,32,KG,06-01-2023
+LG-Chandigarh,Meat and Protein,38,2,IT8623,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,45,KG,6/14/2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT2548,Hand Sanitizer,23,9,Mohit,40,N,06-08-2023
+LG-Chandigarh,Grains and Pulses,40,240,IT1575,Split Peas,30,12,Aman,51,KG,06-08-2023
+LG-Chandigarh,Meat and Protein,23,2,IT6411,"Chicken (Whole, Breast, Thighs, etc.)",26,11,Aakash,45,KG,06-09-2023
+LG-Chandigarh,Other Staples,28,180,IT5613,Noodles,23,13,Amit,35,L,06-08-2023
+LG-Chandigarh,Herbs and Spices,40,60,IT6784,Red Chili Powder,25,12,Akhilesh,60,KG,06-11-2023
+LG-Chandigarh,Herbs and Spices,40,60,IT3258,Bay Leaves,25,13,Akhilesh,60,KG,06-03-2023
+LG-Chandigarh,Vegetables,40,2,IT6719,Onions,20,4,Ankit,50,KG,06-01-2023
+LG-Chandigarh,Herbs and Spices,37,60,IT4253,Turmeric Powder,25,13,Akhilesh,27,KG,06-01-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT6173,Dishwashing Soap,23,12,Mohit,39,N,06-01-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT0410,Dishwashing Soap,23,12,Mohit,29,N,06-05-2023
+LG-Chandigarh,Meat and Protein,12,2,IT3704,Tofu,26,9,Aakash,39,KG,06-08-2023
+LG-Chandigarh,Dairy and Dairy Alternatives,27,7,IT4831,Yogurt,22,9,Sandeep,30,L,06-06-2023
+LG-Chandigarh,Other Staples,28,180,IT5808,"Cooking Oil (Vegetable, Olive, etc.)",23,9,Amit,28,L,6/13/2023
+LG-Chandigarh,Herbs and Spices,40,60,IT2548,Cumin Seeds,25,13,Akhilesh,34,KG,06-02-2023
+LG-Chandigarh,Cleaning and Non-Food Items,27,180,IT7476,Paper Towels,23,57,Mohit,32,N,06-10-2023
+LG-Chandigarh,Grains and Pulses,26,240,IT5193,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,55,KG,06-10-2023
+LG-Chandigarh,Vegetables,12,2,IT9315,Cauliflower,20,11,Ankit,50,KG,6/15/2023
+LG-Chandigarh,Vegetables,12,2,IT1999,Bell Peppers,20,19,Ankit,50,KG,06-07-2023
+LG-Chandigarh,Vegetables,40,2,IT7060,Broccoli,20,12,Ankit,38,KG,06-12-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT9571,Foil and Plastic Wrap,23,3,Mohit,30,N,06-03-2023
+LG-Chandigarh,Vegetables,40,2,IT3156,Potatoes,20,16,Ankit,50,KG,06-07-2023
+LG-Chandigarh,Cleaning and Non-Food Items,29,180,IT9245,Broom and Dustpan,23,13,Mohit,39,N,6/14/2023
+LG-Chandigarh,Vegetables,16,2,IT4821,Bell Peppers,20,10,Ankit,50,KG,06-06-2023
+LG-Chandigarh,Vegetables,40,2,IT1598,Potatoes,20,9,Ankit,31,KG,06-02-2023
+LG-Chandigarh,Herbs and Spices,40,60,IT3454,Turmeric Powder,25,11,Akhilesh,54,KG,06-09-2023
+LG-Chandigarh,Other Staples,28,180,IT5826,Sugar,23,11,Amit,31,L,06-11-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT6412,Foil and Plastic Wrap,23,66,Mohit,40,N,6/15/2023
+LG-Gurugram,Meat and Protein,38,2,IT0651,Eggs,26,13,Aakash,45,KG,06-02-2023
+LG-Gurugram,Other Staples,28,180,IT1885,Salt,23,9,Amit,35,L,06-01-2023
+LG-Gurugram,Other Staples,28,180,IT7330,Pasta,23,11,Amit,35,L,6/13/2023
+LG-Gurugram,Grains and Pulses,30,240,IT1585,Quinoa,30,12,Aman,55,KG,06-10-2023
+LG-Gurugram,Herbs and Spices,40,60,IT1071,Curry Leaves,25,12,Akhilesh,42,KG,6/15/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT4967,Trash Bags,23,12,Mohit,39,N,06-03-2023
+LG-Gurugram,Herbs and Spices,40,60,IT7612,Cumin Seeds,25,13,Akhilesh,60,KG,06-10-2023
+LG-Gurugram,Grains and Pulses,40,240,IT9488,"Lentils (Masoor, Moong, etc.)",30,13,Aman,55,KG,06-07-2023
+LG-Gurugram,Meat and Protein,38,2,IT9892,"Pork (Chops, Tenderloin, etc.)",26,9,Aakash,29,KG,06-10-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9131,Trash Bags,23,12,Mohit,40,N,06-10-2023
+LG-Gurugram,Meat and Protein,27,2,IT4461,"Beef (Ground, Steak, etc.)",26,13,Aakash,37,KG,06-03-2023
+LG-Gurugram,Meat and Protein,38,2,IT0362,Eggs,26,9,Aakash,45,KG,06-06-2023
+LG-Gurugram,Grains and Pulses,40,240,IT2056,Chickpeas,30,13,Aman,55,KG,06-10-2023
+LG-Gurugram,Cleaning and Non-Food Items,20,180,IT5450,Hand Sanitizer,23,9,Mohit,40,N,6/15/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT0435,Cleaning Cloths,23,13,Mohit,40,N,6/13/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT8101,Aprons,23,97,Mohit,40,N,06-12-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT1726,Broom and Dustpan,23,12,Mohit,38,N,06-12-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT4034,Plastic Cutlery,23,6,Mohit,40,N,06-12-2023
+LG-Gurugram,Dairy and Dairy Alternatives,30,7,IT1919,Cream,22,11,Sandeep,40,L,06-09-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT3686,Broom and Dustpan,23,13,Mohit,26,N,06-01-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9383,Dishwashing Soap,23,13,Mohit,40,N,6/14/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9621,Disinfectant Spray,23,12,Mohit,31,N,06-03-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT3161,Plastic Cutlery,23,55,Mohit,32,N,06-12-2023
+LG-Gurugram,Dairy and Dairy Alternatives,13,7,IT0368,Milk,22,9,Sandeep,40,L,06-08-2023
+LG-Gurugram,Herbs and Spices,40,60,IT0628,Bay Leaves,25,9,Akhilesh,31,KG,6/14/2023
+LG-Gurugram,Other Staples,28,180,IT5617,Vinegar,23,9,Amit,23,L,06-06-2023
+LG-Gurugram,Grains and Pulses,40,240,IT4553,Quinoa,30,13,Aman,55,KG,06-04-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT1748,Trash Bags,23,9,Mohit,40,N,06-03-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9214,Mop and Bucket,23,11,Mohit,40,N,06-05-2023
+LG-Gurugram,Grains and Pulses,40,240,IT9056,"Lentils (Masoor, Moong, etc.)",30,11,Aman,55,KG,6/13/2023
+LG-Gurugram,Grains and Pulses,32,240,IT7629,Cornmeal,30,11,Aman,30,KG,06-04-2023
+LG-Gurugram,Other Staples,28,180,IT6254,Baking Powder,23,11,Amit,35,L,6/15/2023
+LG-Gurugram,Other Staples,10,180,IT4793,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,06-11-2023
+LG-Gurugram,Cleaning and Non-Food Items,14,180,IT9471,Cleaning Cloths,23,12,Mohit,24,N,06-09-2023
+LG-Gurugram,Grains and Pulses,40,240,IT7283,"Rice (Basmati, Jasmine, etc.)",30,12,Aman,55,KG,06-04-2023
+LG-Gurugram,Dairy and Dairy Alternatives,30,7,IT4915,Yogurt,22,11,Sandeep,40,L,6/15/2023
+LG-Gurugram,Grains and Pulses,15,240,IT5829,Split Peas,30,12,Aman,55,KG,6/13/2023
+LG-Gurugram,Dairy and Dairy Alternatives,30,7,IT9409,"Cheese (Cheddar, Mozzarella, etc.)",22,9,Sandeep,40,L,06-04-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT6607,Hand Sanitizer,23,13,Mohit,26,N,06-03-2023
+LG-Gurugram,Grains and Pulses,40,240,IT3525,Split Peas,30,12,Aman,39,KG,06-09-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT1250,Hand Sanitizer,23,11,Mohit,30,N,6/15/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT0527,Cleaning Brushes,23,23,Mohit,38,N,06-11-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT2771,Hand Soap,23,11,Mohit,37,N,06-04-2023
+LG-Gurugram,Dairy and Dairy Alternatives,12,7,IT2534,Coconut Milk,22,9,Sandeep,40,L,6/13/2023
+LG-Gurugram,Herbs and Spices,20,60,IT5677,Cumin Seeds,25,9,Akhilesh,26,KG,06-01-2023
+LG-Gurugram,Other Staples,28,180,IT5264,Sugar,23,12,Amit,35,L,6/13/2023
+LG-Gurugram,Cleaning and Non-Food Items,12,180,IT0237,Disinfectant Spray,23,12,Mohit,40,N,06-12-2023
+LG-Gurugram,Cleaning and Non-Food Items,25,180,IT0965,Plastic Cutlery,23,24,Mohit,40,N,6/14/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT4750,Plastic Cutlery,23,13,Mohit,29,N,06-04-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT3153,Toilet Paper,23,69,Mohit,24,N,6/15/2023
+LG-Gurugram,Other Staples,23,180,IT0510,Yeast,23,11,Amit,35,L,06-02-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT1687,Paper Towels,23,69,Mohit,40,N,06-08-2023
+LG-Gurugram,Vegetables,40,2,IT2150,Carrots,20,11,Ankit,30,KG,06-12-2023
+LG-Gurugram,Vegetables,40,2,IT7504,Bell Peppers,20,19,Ankit,36,KG,06-03-2023
+LG-Gurugram,Herbs and Spices,40,60,IT6072,Curry Leaves,25,12,Akhilesh,60,KG,6/14/2023
+LG-Gurugram,Other Staples,13,180,IT1243,Pasta,23,12,Amit,35,L,06-11-2023
+LG-Gurugram,Dairy and Dairy Alternatives,30,7,IT4401,Cream,22,9,Sandeep,40,L,06-07-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT6831,Hand Soap,23,13,Mohit,40,N,06-02-2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT7063,Dishwashing Detergent,23,9,Mohit,40,N,06-01-2023
+LG-Gurugram,Vegetables,40,2,IT2637,Cauliflower,20,9,Ankit,50,KG,6/15/2023
+LG-Gurugram,Cleaning and Non-Food Items,26,180,IT8494,Food Storage Containers,23,99,Mohit,40,N,06-01-2023
+LG-Gurugram,Grains and Pulses,33,240,IT0852,Chickpeas,30,13,Aman,55,KG,06-04-2023
+LG-Gurugram,Other Staples,25,180,IT7357,Noodles,23,11,Amit,35,L,06-04-2023
+LG-Gurugram,Herbs and Spices,40,60,IT8217,Cumin Seeds,25,13,Akhilesh,57,KG,06-07-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT3036,Mop and Bucket,23,26,Mohit,25,N,06-08-2023
+LG-HSR Layout,Other Staples,28,180,IT5859,Pasta,23,11,Amit,35,L,06-05-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT3460,Paper Towels,23,76,Mohit,40,N,06-08-2023
+LG-HSR Layout,Vegetables,40,2,IT5337,Cauliflower,20,11,Ankit,50,KG,06-11-2023
+LG-HSR Layout,Meat and Protein,17,2,IT6469,"Fish (Salmon, Tilapia, etc.)",26,12,Aakash,31,KG,06-07-2023
+LG-HSR Layout,Meat and Protein,35,2,IT0972,"Beef (Ground, Steak, etc.)",26,11,Aakash,31,KG,06-01-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT2840,Almond Milk,22,11,Sandeep,32,L,06-04-2023
+LG-HSR Layout,Herbs and Spices,40,60,IT5585,Ginger,25,9,Akhilesh,44,KG,06-07-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT8042,Food Labels and Markers,23,75,Mohit,25,N,06-02-2023
+LG-HSR Layout,Herbs and Spices,40,60,IT2355,Turmeric Powder,25,12,Akhilesh,41,KG,06-11-2023
+LG-HSR Layout,Vegetables,40,2,IT5784,Green Beans,20,9,Ankit,50,KG,6/14/2023
+LG-HSR Layout,Herbs and Spices,31,60,IT4284,Curry Leaves,25,11,Akhilesh,31,KG,06-11-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT7799,Coconut Milk,22,9,Sandeep,40,L,06-01-2023
+LG-HSR Layout,Cleaning and Non-Food Items,24,180,IT0707,Cleaning Cloths,23,9,Mohit,40,N,06-11-2023
+LG-HSR Layout,Grains and Pulses,40,240,IT9922,"Lentils (Masoor, Moong, etc.)",30,12,Aman,55,KG,06-09-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT7120,Hand Sanitizer,23,11,Mohit,35,N,06-09-2023
+LG-HSR Layout,Grains and Pulses,40,240,IT2153,Quinoa,30,12,Aman,55,KG,06-04-2023
+LG-HSR Layout,Cleaning and Non-Food Items,20,180,IT5519,Disinfectant Spray,23,12,Mohit,25,N,6/14/2023
+LG-HSR Layout,Dairy and Dairy Alternatives,10,7,IT4576,Coconut Milk,22,12,Sandeep,40,L,06-10-2023
+LG-HSR Layout,Other Staples,28,180,IT0490,Sugar,23,11,Amit,35,L,06-10-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT3511,Dishwashing Detergent,23,13,Mohit,23,N,06-07-2023
+LG-HSR Layout,Vegetables,28,2,IT1407,Tomatoes,20,11,Ankit,50,KG,06-11-2023
+LG-HSR Layout,Grains and Pulses,25,240,IT6369,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,42,KG,06-06-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT9050,Cream,22,11,Sandeep,28,L,06-03-2023
+LG-HSR Layout,Vegetables,18,2,IT2687,Green Beans,20,13,Ankit,31,KG,06-08-2023
+LG-HSR Layout,Cleaning and Non-Food Items,19,180,IT4957,Dishwashing Detergent,23,12,Mohit,40,N,06-11-2023
+LG-HSR Layout,Grains and Pulses,40,240,IT2711,Quinoa,30,13,Aman,55,KG,06-10-2023
+LG-HSR Layout,Other Staples,28,180,IT1941,Salt,23,11,Amit,35,L,06-04-2023
+LG-HSR Layout,Meat and Protein,38,2,IT5445,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,45,KG,06-03-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT1886,Milk,22,13,Sandeep,40,L,06-12-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT5658,Mop and Bucket,23,48,Mohit,23,N,06-05-2023
+LG-HSR Layout,Other Staples,10,180,IT7455,Baking Powder,23,12,Amit,35,L,6/14/2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT7754,Cream,22,9,Sandeep,37,L,06-12-2023
+LG-HSR Layout,Cleaning and Non-Food Items,13,180,IT2784,Dishwashing Soap,23,11,Mohit,30,N,06-07-2023
+LG-HSR Layout,Other Staples,28,180,IT8238,Vinegar,23,13,Amit,30,L,06-07-2023
+LG-HSR Layout,Grains and Pulses,21,240,IT9821,Chickpeas,30,13,Aman,46,KG,06-07-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT6148,Hand Sanitizer,23,12,Mohit,39,N,6/14/2023
+LG-HSR Layout,Other Staples,28,180,IT6212,Yeast,23,9,Amit,35,L,6/13/2023
+LG-HSR Layout,Vegetables,26,2,IT9716,Tomatoes,20,18,Ankit,50,KG,06-12-2023
+LG-HSR Layout,Vegetables,40,2,IT0763,Cabbage,20,13,Ankit,50,KG,06-05-2023
+LG-HSR Layout,Vegetables,40,2,IT3504,Broccoli,20,12,Ankit,50,KG,06-07-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,18,7,IT1521,Cream,22,12,Sandeep,40,L,06-05-2023
+LG-HSR Layout,Herbs and Spices,40,60,IT3557,Garam Masala,25,13,Akhilesh,52,KG,06-12-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT6799,Trash Bags,23,12,Mohit,40,N,06-11-2023
+LG-HSR Layout,Herbs and Spices,40,60,IT8709,Turmeric Powder,25,9,Akhilesh,55,KG,06-09-2023
+LG-HSR Layout,Cleaning and Non-Food Items,14,180,IT4651,Aprons,23,20,Mohit,40,N,6/13/2023
+LG-HSR Layout,Cleaning and Non-Food Items,26,180,IT8441,Napkins,23,61,Mohit,40,N,06-08-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT0356,Disinfectant Spray,23,13,Mohit,40,N,06-12-2023
+LG-HSR Layout,Grains and Pulses,40,240,IT5913,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,55,KG,06-05-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT7882,Cleaning Brushes,23,24,Mohit,40,N,06-05-2023
+LG-HSR Layout,Vegetables,40,2,IT7455,Cabbage,20,9,Ankit,50,KG,06-07-2023
+LG-HSR Layout,Meat and Protein,38,2,IT1373,"Beef (Ground, Steak, etc.)",26,12,Aakash,45,KG,06-01-2023
+LG-HSR Layout,Other Staples,20,180,IT8256,Sugar,23,11,Amit,35,L,06-06-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT3953,Takeout Containers,23,29,Mohit,39,N,06-12-2023
+LG-HSR Layout,Vegetables,40,2,IT1668,Spinach,20,12,Ankit,50,KG,6/15/2023
+LG-HSR Layout,Meat and Protein,27,2,IT9835,"Fish (Salmon, Tilapia, etc.)",26,11,Aakash,45,KG,06-04-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT3958,Milk,22,11,Sandeep,36,L,06-05-2023
+LG-HSR Layout,Cleaning and Non-Food Items,16,180,IT0619,Cleaning Brushes,23,81,Mohit,35,N,06-03-2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT5297,Broom and Dustpan,23,9,Mohit,40,N,06-12-2023
+LG-HSR Layout,Grains and Pulses,40,240,IT3480,"Rice (Basmati, Jasmine, etc.)",30,13,Aman,50,KG,6/15/2023
+LG-HSR Layout,Herbs and Spices,40,60,IT5929,Garam Masala,25,12,Akhilesh,60,KG,06-02-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,24,7,IT2404,Milk,22,11,Sandeep,24,L,06-07-2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT3549,"Cheese (Cheddar, Mozzarella, etc.)",22,11,Sandeep,39,L,06-11-2023
+LG-HSR Layout,Cleaning and Non-Food Items,18,180,IT4551,Plastic Cutlery,23,41,Mohit,34,N,06-02-2023
+LG-HSR Layout,Other Staples,16,180,IT3992,Salt,23,11,Amit,35,L,6/14/2023
+LG-Whitefield,Other Staples,19,180,IT2436,Pasta,23,12,Amit,35,L,6/14/2023
+LG-Whitefield,Vegetables,17,2,IT0738,Broccoli,20,11,Ankit,43,KG,6/15/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT1771,Paper Towels,23,85,Mohit,28,N,06-01-2023
+LG-Whitefield,Other Staples,28,180,IT4907,Sugar,23,9,Amit,35,L,06-03-2023
+LG-Whitefield,Other Staples,11,180,IT6477,"Cooking Oil (Vegetable, Olive, etc.)",23,13,Amit,35,L,06-10-2023
+LG-Whitefield,Vegetables,40,2,IT5836,Cabbage,20,13,Ankit,23,KG,06-06-2023
+LG-Whitefield,Cleaning and Non-Food Items,21,180,IT4923,Plastic Cutlery,23,22,Mohit,39,N,06-04-2023
+LG-Whitefield,Vegetables,40,2,IT7430,Carrots,20,7,Ankit,45,KG,06-09-2023
+LG-Whitefield,Herbs and Spices,40,60,IT4100,Garlic,25,12,Akhilesh,25,KG,06-12-2023
+LG-Whitefield,Dairy and Dairy Alternatives,22,7,IT1116,Almond Milk,22,11,Sandeep,40,L,06-05-2023
+LG-Whitefield,Other Staples,28,180,IT6778,Baking Powder,23,9,Amit,35,L,06-12-2023
+LG-Whitefield,Vegetables,33,2,IT8488,Bell Peppers,20,5,Ankit,22,KG,06-02-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT0824,Cleaning Brushes,23,62,Mohit,40,N,06-03-2023
+LG-Whitefield,Herbs and Spices,39,60,IT2470,Bay Leaves,25,12,Akhilesh,33,KG,06-05-2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT5128,Coconut Milk,22,12,Sandeep,34,L,06-10-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT3164,Trash Bags,23,12,Mohit,40,N,06-06-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT1882,Paper Towels,23,83,Mohit,29,N,06-04-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT8246,Cleaning Brushes,23,81,Mohit,40,N,06-05-2023
+LG-Whitefield,Meat and Protein,13,2,IT0775,"Beef (Ground, Steak, etc.)",26,9,Aakash,45,KG,06-01-2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT9268,Butter,22,11,Sandeep,28,L,06-06-2023
+LG-Whitefield,Herbs and Spices,34,60,IT8930,Garam Masala,25,9,Akhilesh,60,KG,6/13/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT6543,Trash Bags,23,9,Mohit,40,N,06-07-2023
+LG-Whitefield,Herbs and Spices,38,60,IT0224,Curry Leaves,25,11,Akhilesh,60,KG,06-05-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT0720,Trash Bags,23,13,Mohit,40,N,06-03-2023
+LG-Whitefield,Vegetables,29,2,IT2089,Broccoli,20,12,Ankit,50,KG,06-05-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT2990,Gloves (Disposable and Reusable),23,16,Mohit,40,N,06-06-2023
+LG-Whitefield,Herbs and Spices,25,60,IT2403,Ginger,25,12,Akhilesh,25,KG,06-12-2023
+LG-Whitefield,Herbs and Spices,40,60,IT2817,Coriander Powder,25,11,Akhilesh,60,KG,06-08-2023
+LG-Whitefield,Other Staples,28,180,IT4839,Sugar,23,12,Amit,35,L,06-05-2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT3100,Yogurt,22,11,Sandeep,40,L,6/15/2023
+LG-Whitefield,Grains and Pulses,40,240,IT8397,Cornmeal,30,13,Aman,53,KG,06-10-2023
+LG-Whitefield,Cleaning and Non-Food Items,25,180,IT0503,Mop and Bucket,23,94,Mohit,34,N,6/13/2023
+LG-Whitefield,Grains and Pulses,22,240,IT2914,Quinoa,30,13,Aman,55,KG,06-08-2023
+LG-Whitefield,Herbs and Spices,40,60,IT3683,Cumin Seeds,25,13,Akhilesh,57,KG,06-10-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT9579,Aprons,23,47,Mohit,40,N,06-09-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT6709,Paper Towels,23,4,Mohit,40,N,6/14/2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT8412,Cream,22,12,Sandeep,30,L,06-07-2023
+LG-Whitefield,Other Staples,15,180,IT3698,Noodles,23,9,Amit,35,L,06-02-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT9670,Broom and Dustpan,23,12,Mohit,33,N,06-11-2023
+LG-Whitefield,Grains and Pulses,31,240,IT3587,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,55,KG,06-09-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT1753,Dishwashing Soap,23,12,Mohit,40,N,06-12-2023
+LG-Whitefield,Other Staples,28,180,IT6698,Noodles,23,13,Amit,35,L,06-10-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT0353,Food Labels and Markers,23,6,Mohit,40,N,06-11-2023
+LG-Whitefield,Vegetables,40,2,IT6386,Broccoli,20,11,Ankit,50,KG,06-04-2023
+LG-Whitefield,Other Staples,28,180,IT1727,Vinegar,23,13,Amit,33,L,06-11-2023
+LG-Whitefield,Cleaning and Non-Food Items,22,180,IT2906,Napkins,23,12,Mohit,40,N,06-12-2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT8302,Milk,22,12,Sandeep,40,L,06-05-2023
+LG-Whitefield,Cleaning and Non-Food Items,22,180,IT5672,Disinfectant Spray,23,9,Mohit,40,N,06-09-2023
+LG-Whitefield,Vegetables,40,2,IT0710,Cauliflower,20,11,Ankit,36,KG,06-12-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT9947,Napkins,23,95,Mohit,40,N,06-04-2023
+LG-Whitefield,Meat and Protein,36,2,IT9713,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,34,KG,6/14/2023
+LG-Whitefield,Vegetables,40,2,IT5014,Spinach,20,13,Ankit,22,KG,06-01-2023
+LG-Whitefield,Other Staples,24,180,IT5701,Salt,23,12,Amit,31,L,06-09-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT0435,Cleaning Brushes,23,40,Mohit,40,N,06-01-2023
+LG-Whitefield,Vegetables,34,2,IT8073,Spinach,20,13,Ankit,33,KG,06-02-2023
+LG-Whitefield,Herbs and Spices,37,60,IT1620,Garlic,25,13,Akhilesh,60,KG,06-06-2023
+LG-Whitefield,Other Staples,28,180,IT6806,Yeast,23,13,Amit,31,L,06-03-2023
+LG-Whitefield,Other Staples,28,180,IT0490,Yeast,23,13,Amit,35,L,06-05-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT3029,Dishwashing Detergent,23,9,Mohit,40,N,06-01-2023
+LG-Whitefield,Herbs and Spices,28,60,IT8264,Coriander Powder,25,13,Akhilesh,49,KG,06-12-2023
+LG-Whitefield,Vegetables,26,2,IT6281,Potatoes,20,9,Ankit,44,KG,06-12-2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT9201,Cleaning Brushes,23,20,Mohit,40,N,06-09-2023
+LG-Whitefield,Vegetables,27,2,IT2121,Spinach,20,12,Ankit,46,KG,06-09-2023
+LG-Whitefield,Grains and Pulses,40,240,IT2472,Chickpeas,30,11,Aman,40,KG,06-10-2023
+LG-Whitefield,Cleaning and Non-Food Items,12,180,IT6848,Mop and Bucket,23,1,Mohit,36,N,06-01-2023
+LG-Hyderabad,Meat and Protein,38,2,IT9209,"Beef (Ground, Steak, etc.)",26,13,Aakash,45,KG,6/15/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT0956,Milk,22,9,Sandeep,40,L,06-10-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,26,7,IT0040,"Cheese (Cheddar, Mozzarella, etc.)",22,13,Sandeep,34,L,6/14/2023
+LG-Hyderabad,Grains and Pulses,34,240,IT2008,Chickpeas,30,9,Aman,55,KG,06-02-2023
+LG-Hyderabad,Cleaning and Non-Food Items,26,180,IT1487,Hand Soap,23,11,Mohit,34,N,06-11-2023
+LG-Hyderabad,Vegetables,27,2,IT2602,Cauliflower,20,11,Ankit,50,KG,06-06-2023
+LG-Hyderabad,Vegetables,40,2,IT6250,Onions,20,6,Ankit,50,KG,06-11-2023
+LG-Hyderabad,Herbs and Spices,40,60,IT9414,Garam Masala,25,13,Akhilesh,60,KG,06-02-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT3501,Broom and Dustpan,23,9,Mohit,33,N,06-07-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,25,7,IT0379,Almond Milk,22,12,Sandeep,40,L,06-07-2023
+LG-Hyderabad,Grains and Pulses,35,240,IT0205,Split Peas,30,9,Aman,48,KG,06-09-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT7185,Cleaning Cloths,23,12,Mohit,36,N,06-06-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT1357,Butter,22,11,Sandeep,40,L,06-08-2023
+LG-Hyderabad,Vegetables,40,2,IT1813,Potatoes,20,16,Ankit,50,KG,6/13/2023
+LG-Hyderabad,Other Staples,28,180,IT6179,Yeast,23,9,Amit,35,L,06-02-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT8252,Coconut Milk,22,13,Sandeep,40,L,6/15/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT9032,Trash Bags,23,9,Mohit,40,N,06-09-2023
+LG-Hyderabad,Other Staples,28,180,IT3653,Baking Powder,23,9,Amit,34,L,06-06-2023
+LG-Hyderabad,Grains and Pulses,40,240,IT3536,Wheat Flour,30,12,Aman,55,KG,06-11-2023
+LG-Hyderabad,Vegetables,40,2,IT6249,Spinach,20,13,Ankit,49,KG,06-04-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT5828,Cream,22,13,Sandeep,36,L,06-03-2023
+LG-Hyderabad,Herbs and Spices,36,60,IT9151,Turmeric Powder,25,12,Akhilesh,39,KG,06-08-2023
+LG-Hyderabad,Other Staples,20,180,IT5096,Baking Powder,23,12,Amit,35,L,6/15/2023
+LG-Hyderabad,Cleaning and Non-Food Items,15,180,IT9170,Napkins,23,8,Mohit,40,N,06-12-2023
+LG-Hyderabad,Meat and Protein,38,2,IT1370,"Beef (Ground, Steak, etc.)",26,13,Aakash,34,KG,6/14/2023
+LG-Hyderabad,Cleaning and Non-Food Items,28,180,IT7980,Napkins,23,21,Mohit,33,N,6/15/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT4815,Coconut Milk,22,9,Sandeep,35,L,06-06-2023
+LG-Hyderabad,Cleaning and Non-Food Items,14,180,IT7382,Napkins,23,17,Mohit,40,N,6/14/2023
+LG-Hyderabad,Other Staples,28,180,IT5289,Sugar,23,9,Amit,35,L,6/15/2023
+LG-Hyderabad,Meat and Protein,38,2,IT8042,"Beef (Ground, Steak, etc.)",26,12,Aakash,27,KG,06-05-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,26,7,IT7194,"Cheese (Cheddar, Mozzarella, etc.)",22,12,Sandeep,40,L,06-11-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT1563,Mop and Bucket,23,28,Mohit,27,N,6/13/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT2131,Garam Masala,25,9,Akhilesh,27,KG,06-11-2023
+LG-Hyderabad,Cleaning and Non-Food Items,28,180,IT2289,Dishwashing Detergent,23,11,Mohit,40,N,6/14/2023
+LG-Hyderabad,Herbs and Spices,35,60,IT7773,Ginger,25,13,Akhilesh,55,KG,06-03-2023
+LG-Hyderabad,Herbs and Spices,40,60,IT6018,Bay Leaves,25,9,Akhilesh,60,KG,6/13/2023
+LG-Hyderabad,Vegetables,33,2,IT8398,Bell Peppers,20,10,Ankit,50,KG,06-12-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT2148,Foil and Plastic Wrap,23,15,Mohit,23,N,06-03-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT6874,Toilet Paper,23,34,Mohit,40,N,06-06-2023
+LG-Hyderabad,Other Staples,28,180,IT4504,Baking Powder,23,11,Amit,35,L,06-03-2023
+LG-Hyderabad,Herbs and Spices,40,60,IT1884,Turmeric Powder,25,9,Akhilesh,54,KG,06-08-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT7908,Trash Bags,23,11,Mohit,38,N,06-06-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT3899,Trash Bags,23,12,Mohit,29,N,06-10-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT0173,Hand Sanitizer,23,12,Mohit,40,N,6/13/2023
+LG-Hyderabad,Meat and Protein,20,2,IT3042,"Chicken (Whole, Breast, Thighs, etc.)",26,9,Aakash,45,KG,06-12-2023
+LG-Hyderabad,Cleaning and Non-Food Items,16,180,IT1254,Dishwashing Detergent,23,9,Mohit,40,N,06-09-2023
+LG-Hyderabad,Grains and Pulses,22,240,IT5613,Quinoa,30,12,Aman,46,KG,6/14/2023
+LG-Hyderabad,Meat and Protein,38,2,IT8871,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,45,KG,6/14/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT2673,Garlic,25,12,Akhilesh,49,KG,06-07-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT4476,Takeout Containers,23,29,Mohit,40,N,06-08-2023
+LG-Hyderabad,Vegetables,40,2,IT1378,Potatoes,20,16,Ankit,50,KG,06-01-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT6010,Trash Bags,23,13,Mohit,40,N,06-02-2023
+LG-Hyderabad,Other Staples,20,180,IT8220,Yeast,23,11,Amit,35,L,06-07-2023
+LG-Hyderabad,Herbs and Spices,40,60,IT9204,Ginger,25,13,Akhilesh,54,KG,06-10-2023
+LG-Hyderabad,Dairy and Dairy Alternatives,13,7,IT1748,Butter,22,13,Sandeep,40,L,06-04-2023
+LG-Hyderabad,Vegetables,40,2,IT3793,Spinach,20,12,Ankit,30,KG,06-03-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT0345,Gloves (Disposable and Reusable),23,69,Mohit,40,N,06-03-2023
+LG-Hyderabad,Other Staples,13,180,IT1694,Pasta,23,9,Amit,35,L,06-04-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT4047,Food Labels and Markers,23,15,Mohit,33,N,6/14/2023
+LG-Hyderabad,Other Staples,28,180,IT2107,Yeast,23,9,Amit,29,L,6/13/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT3487,Dishwashing Detergent,23,13,Mohit,40,N,06-03-2023
+LG-Hyderabad,Meat and Protein,38,2,IT1564,"Fish (Salmon, Tilapia, etc.)",26,12,Aakash,45,KG,06-10-2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT4903,Broom and Dustpan,23,11,Mohit,40,N,06-07-2023
+LG-Hyderabad,Grains and Pulses,26,240,IT6065,Cornmeal,30,11,Aman,55,KG,06-08-2023
+LG-Hyderabad,Herbs and Spices,40,60,IT8637,Bay Leaves,25,9,Akhilesh,37,KG,06-06-2023
+LG-Chennai,Cleaning and Non-Food Items,24,180,IT1217,Takeout Containers,23,64,Mohit,40,N,6/14/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT8983,Food Storage Containers,23,72,Mohit,34,N,6/13/2023
+LG-Chennai,Herbs and Spices,40,60,IT4247,Garam Masala,25,9,Akhilesh,55,KG,6/15/2023
+LG-Chennai,Grains and Pulses,40,240,IT0244,Split Peas,30,13,Aman,36,KG,06-04-2023
+LG-Chennai,Grains and Pulses,40,240,IT7526,Split Peas,30,9,Aman,48,KG,06-02-2023
+LG-Chennai,Other Staples,28,180,IT6594,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,06-03-2023
+LG-Chennai,Meat and Protein,38,2,IT0897,Tofu,26,12,Aakash,45,KG,6/13/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT0293,Takeout Containers,23,91,Mohit,29,N,06-12-2023
+LG-Chennai,Herbs and Spices,40,60,IT4922,Garam Masala,25,13,Akhilesh,38,KG,06-05-2023
+LG-Chennai,Herbs and Spices,40,60,IT0168,Cumin Seeds,25,9,Akhilesh,35,KG,06-12-2023
+LG-Chennai,Vegetables,40,2,IT6444,Spinach,20,13,Ankit,33,KG,6/14/2023
+LG-Chennai,Vegetables,27,2,IT7661,Bell Peppers,20,18,Ankit,50,KG,06-09-2023
+LG-Chennai,Meat and Protein,38,2,IT2263,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,35,KG,6/13/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT1621,Food Labels and Markers,23,34,Mohit,40,N,06-01-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2485,Takeout Containers,23,93,Mohit,37,N,06-11-2023
+LG-Chennai,Grains and Pulses,24,240,IT3934,Chickpeas,30,12,Aman,55,KG,6/15/2023
+LG-Chennai,Cleaning and Non-Food Items,13,180,IT0253,Aprons,23,11,Mohit,40,N,06-06-2023
+LG-Chennai,Other Staples,28,180,IT2045,Pasta,23,12,Amit,35,L,06-01-2023
+LG-Chennai,Grains and Pulses,11,240,IT7055,Quinoa,30,12,Aman,45,KG,06-06-2023
+LG-Chennai,Vegetables,21,2,IT3622,Bell Peppers,20,10,Ankit,37,KG,06-01-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT5099,Milk,22,13,Sandeep,40,L,06-10-2023
+LG-Chennai,Other Staples,28,180,IT6318,Salt,23,12,Amit,35,L,06-06-2023
+LG-Chennai,Vegetables,40,2,IT7520,Carrots,20,11,Ankit,35,KG,06-02-2023
+LG-Chennai,Other Staples,28,180,IT5651,"Cooking Oil (Vegetable, Olive, etc.)",23,13,Amit,35,L,06-09-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT9463,Mop and Bucket,23,82,Mohit,40,N,6/15/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT4104,Paper Towels,23,13,Mohit,40,N,06-07-2023
+LG-Chennai,Vegetables,40,2,IT3147,Tomatoes,20,11,Ankit,27,KG,6/14/2023
+LG-Chennai,Grains and Pulses,40,240,IT0234,Wheat Flour,30,9,Aman,38,KG,06-12-2023
+LG-Chennai,Herbs and Spices,20,60,IT4129,Curry Leaves,25,12,Akhilesh,27,KG,06-06-2023
+LG-Chennai,Other Staples,28,180,IT2282,"Cooking Oil (Vegetable, Olive, etc.)",23,9,Amit,35,L,06-01-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT5422,Takeout Containers,23,51,Mohit,23,N,06-12-2023
+LG-Chennai,Herbs and Spices,40,60,IT8423,Bay Leaves,25,12,Akhilesh,60,KG,06-12-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT1044,Dishwashing Detergent,23,11,Mohit,33,N,06-10-2023
+LG-Chennai,Other Staples,28,180,IT8160,Vinegar,23,11,Amit,35,L,06-09-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT9579,Hand Sanitizer,23,11,Mohit,40,N,06-10-2023
+LG-Chennai,Vegetables,40,2,IT1108,Carrots,20,11,Ankit,50,KG,06-06-2023
+LG-Chennai,Grains and Pulses,40,240,IT1153,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,55,KG,06-07-2023
+LG-Chennai,Cleaning and Non-Food Items,13,180,IT6517,Toilet Paper,23,12,Mohit,40,N,06-07-2023
+LG-Chennai,Cleaning and Non-Food Items,14,180,IT0765,Trash Bags,23,13,Mohit,25,N,06-10-2023
+LG-Chennai,Grains and Pulses,40,240,IT6139,Split Peas,30,9,Aman,55,KG,06-04-2023
+LG-Chennai,Vegetables,40,2,IT4738,Green Beans,20,9,Ankit,50,KG,06-07-2023
+LG-Chennai,Herbs and Spices,40,60,IT6076,Bay Leaves,25,13,Akhilesh,31,KG,06-06-2023
+LG-Chennai,Grains and Pulses,30,240,IT4261,Split Peas,30,12,Aman,55,KG,06-04-2023
+LG-Chennai,Cleaning and Non-Food Items,14,180,IT8744,Mop and Bucket,23,37,Mohit,40,N,6/15/2023
+LG-Chennai,Vegetables,40,2,IT6430,Cabbage,20,13,Ankit,50,KG,06-08-2023
+LG-Chennai,Vegetables,12,2,IT5433,Tomatoes,20,17,Ankit,50,KG,6/13/2023
+LG-Chennai,Herbs and Spices,40,60,IT1344,Turmeric Powder,25,11,Akhilesh,60,KG,06-12-2023
+LG-Chennai,Cleaning and Non-Food Items,26,180,IT6928,Trash Bags,23,13,Mohit,38,N,06-06-2023
+LG-Chennai,Dairy and Dairy Alternatives,19,7,IT3763,Milk,22,11,Sandeep,40,L,06-04-2023
+LG-Chennai,Vegetables,38,2,IT7240,Carrots,20,11,Ankit,50,KG,06-09-2023
+LG-Chennai,Other Staples,28,180,IT2559,Vinegar,23,12,Amit,35,L,06-02-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT7697,Aprons,23,90,Mohit,40,N,06-08-2023
+LG-Chennai,Herbs and Spices,30,60,IT4545,Bay Leaves,25,9,Akhilesh,47,KG,06-11-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2838,Takeout Containers,23,8,Mohit,40,N,06-07-2023
+LG-Chennai,Vegetables,40,2,IT2265,Broccoli,20,11,Ankit,50,KG,06-08-2023
+LG-Chennai,Other Staples,28,180,IT4858,Sugar,23,9,Amit,30,L,6/14/2023
+LG-Chennai,Cleaning and Non-Food Items,18,180,IT4298,Trash Bags,23,13,Mohit,36,N,06-05-2023
+LG-Chennai,Vegetables,37,2,IT4664,Bell Peppers,20,19,Ankit,47,KG,6/15/2023
+LG-Chennai,Cleaning and Non-Food Items,10,180,IT2971,Aprons,23,87,Mohit,40,N,6/13/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT1482,Takeout Containers,23,48,Mohit,40,N,06-05-2023
+LG-Chennai,Herbs and Spices,36,60,IT1069,Ginger,25,11,Akhilesh,60,KG,06-11-2023
+LG-Chennai,Herbs and Spices,38,60,IT3130,Red Chili Powder,25,9,Akhilesh,60,KG,6/14/2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT2350,Coconut Milk,22,9,Sandeep,40,L,6/14/2023
+LG-Chennai,Vegetables,21,2,IT8489,Carrots,20,7,Ankit,50,KG,6/15/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT9200,Dishwashing Detergent,23,13,Mohit,23,N,06-09-2023
+LG-Chennai,Other Staples,28,180,IT3495,Yeast,23,13,Amit,33,L,06-11-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT1434,Cream,22,11,Sandeep,23,L,06-04-2023
+LG-Chennai,Meat and Protein,38,2,IT0082,Tofu,26,9,Aakash,45,KG,06-01-2023
+LG-Chennai,Vegetables,40,2,IT9078,Bell Peppers,20,19,Ankit,50,KG,06-07-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT6216,Cleaning Brushes,23,91,Mohit,37,N,06-05-2023
+LG-Chennai,Herbs and Spices,40,60,IT2020,Ginger,25,12,Akhilesh,60,KG,6/15/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT5043,Gloves (Disposable and Reusable),23,93,Mohit,40,N,06-05-2023
+LG-Chennai,Herbs and Spices,40,60,IT9744,Ginger,25,12,Akhilesh,47,KG,06-06-2023
+LG-Chennai,Grains and Pulses,40,240,IT2838,Wheat Flour,30,9,Aman,44,KG,6/14/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT9968,Aprons,23,55,Mohit,40,N,06-07-2023
+LG-Chennai,Grains and Pulses,40,240,IT1566,Quinoa,30,11,Aman,55,KG,06-04-2023
+LG-Chennai,Vegetables,17,2,IT5990,Bell Peppers,20,5,Ankit,45,KG,06-09-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT5243,Milk,22,11,Sandeep,39,L,6/14/2023
+LG-Chennai,Grains and Pulses,22,240,IT2717,Wheat Flour,30,13,Aman,55,KG,06-11-2023
+LG-Chennai,Vegetables,15,2,IT6297,Cauliflower,20,9,Ankit,50,KG,06-03-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT4356,Coconut Milk,22,13,Sandeep,36,L,06-09-2023
+LG-Chennai,Dairy and Dairy Alternatives,25,7,IT4665,Coconut Milk,22,11,Sandeep,27,L,06-07-2023
+LG-Chennai,Herbs and Spices,40,60,IT2951,Red Chili Powder,25,9,Akhilesh,60,KG,06-03-2023
+LG-Chennai,Grains and Pulses,40,240,IT6025,"Rice (Basmati, Jasmine, etc.)",30,11,Aman,34,KG,06-09-2023
+LG-Chennai,Grains and Pulses,40,240,IT1805,Split Peas,30,12,Aman,55,KG,06-01-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2980,Hand Soap,23,11,Mohit,40,N,06-12-2023
+LG-Chennai,Other Staples,28,180,IT3860,Vinegar,23,9,Amit,32,L,6/13/2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT4067,Disinfectant Spray,23,9,Mohit,40,N,06-05-2023
+LG-Chennai,Vegetables,40,2,IT7913,Spinach,20,12,Ankit,50,KG,06-06-2023
+LG-Chennai,Grains and Pulses,40,240,IT7098,Chickpeas,30,9,Aman,54,KG,06-05-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT3059,Almond Milk,22,12,Sandeep,40,L,06-02-2023
+LG-Chennai,Other Staples,28,180,IT0486,Noodles,23,13,Amit,34,L,06-08-2023
+LG-Chennai,Meat and Protein,17,2,IT3270,Eggs,26,12,Aakash,42,KG,06-04-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2172,Food Labels and Markers,23,63,Mohit,23,N,06-10-2023
+LG-Chennai,Vegetables,25,2,IT8119,Green Beans,20,12,Ankit,50,KG,06-07-2023
+LG-Chennai,Vegetables,28,2,IT2291,Onions,20,6,Ankit,50,KG,06-06-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT8327,Dishwashing Soap,23,12,Mohit,40,N,06-05-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT5888,Paper Towels,23,84,Mohit,26,N,06-06-2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT6086,"Cheese (Cheddar, Mozzarella, etc.)",22,11,Sandeep,31,L,06-10-2023
+LG-Chennai,Grains and Pulses,40,240,IT4537,Split Peas,30,13,Aman,55,KG,06-01-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT7532,Cleaning Cloths,23,11,Mohit,34,N,06-08-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT0236,Mop and Bucket,23,44,Mohit,35,N,06-02-2023
+LG-Chennai,Cleaning and Non-Food Items,13,180,IT7279,Food Storage Containers,23,41,Mohit,40,N,06-02-2023
+LG-Chennai,Meat and Protein,38,2,IT0646,"Beef (Ground, Steak, etc.)",26,12,Aakash,28,KG,06-06-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT5155,Dishwashing Detergent,23,13,Mohit,40,N,06-02-2023
+LG-Chennai,Grains and Pulses,40,240,IT8054,"Lentils (Masoor, Moong, etc.)",30,9,Aman,44,KG,06-08-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2823,Napkins,23,70,Mohit,40,N,06-05-2023
+LG-Chennai,Herbs and Spices,40,60,IT4867,Curry Leaves,25,12,Akhilesh,59,KG,06-06-2023
+LG-Chennai,Other Staples,28,180,IT6419,Noodles,23,9,Amit,35,L,06-11-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT2342,Paper Towels,23,85,Mohit,29,N,6/15/2023
+LG-Chennai,Dairy and Dairy Alternatives,30,7,IT4634,Milk,22,9,Sandeep,37,L,06-03-2023
+LG-Chennai,Herbs and Spices,40,60,IT9285,Curry Leaves,25,9,Akhilesh,25,KG,06-05-2023
+LG-Chennai,Cleaning and Non-Food Items,27,180,IT1409,Plastic Cutlery,23,83,Mohit,30,N,6/13/2023
+LG-Chennai,Vegetables,40,2,IT1595,Green Beans,20,11,Ankit,50,KG,06-11-2023
+LG-Chennai,Other Staples,28,180,IT3513,Vinegar,23,13,Amit,35,L,06-11-2023
+LG-Chennai,Dairy and Dairy Alternatives,23,7,IT4098,Butter,22,12,Sandeep,26,L,06-01-2023
+LG-Chennai,Other Staples,20,180,IT3764,Pasta,23,9,Amit,34,L,06-11-2023
+LG-Chennai,Meat and Protein,38,2,IT0738,"Pork (Chops, Tenderloin, etc.)",26,13,Aakash,45,KG,06-07-2023
+LG-Chennai,Dairy and Dairy Alternatives,15,7,IT9321,Butter,22,13,Sandeep,40,L,06-12-2023
+LG-Chennai,Grains and Pulses,40,240,IT8749,Quinoa,30,11,Aman,49,KG,06-08-2023
+LG-Chennai,Grains and Pulses,32,240,IT7320,Cornmeal,30,12,Aman,55,KG,06-12-2023
+LG-Chennai,Cleaning and Non-Food Items,14,180,IT9242,Food Storage Containers,23,85,Mohit,40,N,6/15/2023
+LG-Chennai,Vegetables,12,2,IT5728,Bell Peppers,20,18,Ankit,32,KG,06-03-2023
+LG-Chennai,Vegetables,40,2,IT8558,Potatoes,20,3,Ankit,25,KG,06-07-2023
+LG-Chennai,Cleaning and Non-Food Items,19,180,IT6988,Foil and Plastic Wrap,23,33,Mohit,36,N,6/15/2023
+LG-Chennai,Grains and Pulses,19,240,IT0179,Cornmeal,30,9,Aman,41,KG,06-06-2023
+LG-Chennai,Other Staples,28,180,IT9586,Vinegar,23,13,Amit,35,L,06-05-2023
+LG-Chennai,Meat and Protein,17,2,IT2701,"Pork (Chops, Tenderloin, etc.)",26,13,Aakash,31,KG,06-03-2023
+LG-Chennai,Cleaning and Non-Food Items,29,180,IT3237,Trash Bags,23,13,Mohit,29,N,06-10-2023
+LG-Chennai,Herbs and Spices,40,60,IT1493,Coriander Powder,25,13,Akhilesh,27,KG,06-12-2023
+LG-Ahmedabad,Grains and Pulses,24,240,IT9385,"Rice (Basmati, Jasmine, etc.)",30,9,Aman,43,KG,06-10-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT2069,Red Chili Powder,25,11,Akhilesh,60,KG,6/14/2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,30,7,IT1982,Cream,22,13,Sandeep,40,L,06-02-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT8015,Takeout Containers,23,58,Mohit,40,N,06-10-2023
+LG-Ahmedabad,Other Staples,28,180,IT5650,Sugar,23,13,Amit,26,L,06-09-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT3847,Plastic Cutlery,23,69,Mohit,40,N,06-04-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT0751,Bay Leaves,25,13,Akhilesh,47,KG,06-09-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT8751,Cleaning Brushes,23,92,Mohit,40,N,06-11-2023
+LG-Ahmedabad,Grains and Pulses,17,240,IT3237,Chickpeas,30,13,Aman,33,KG,06-08-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT9643,Food Storage Containers,23,75,Mohit,40,N,06-11-2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,14,7,IT3736,Milk,22,13,Sandeep,40,L,6/15/2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT5549,Curry Leaves,25,11,Akhilesh,43,KG,06-05-2023
+LG-Ahmedabad,Vegetables,40,2,IT2624,Cauliflower,20,11,Ankit,38,KG,6/14/2023
+LG-Ahmedabad,Vegetables,40,2,IT3675,Tomatoes,20,17,Ankit,38,KG,06-01-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT3753,Cleaning Cloths,23,13,Mohit,30,N,06-11-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT6842,Trash Bags,23,11,Mohit,40,N,06-09-2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,26,7,IT0404,Milk,22,11,Sandeep,32,L,6/14/2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,13,7,IT8515,Butter,22,9,Sandeep,40,L,6/14/2023
+LG-Ahmedabad,Vegetables,30,2,IT1688,Cabbage,20,9,Ankit,47,KG,06-01-2023
+LG-Ahmedabad,Grains and Pulses,31,240,IT7145,Cornmeal,30,9,Aman,55,KG,06-09-2023
+LG-Ahmedabad,Other Staples,28,180,IT9692,Baking Powder,23,12,Amit,35,L,6/15/2023
+LG-Ahmedabad,Meat and Protein,38,2,IT2036,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,45,KG,06-04-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT2428,Food Storage Containers,23,39,Mohit,36,N,06-08-2023
+LG-Ahmedabad,Herbs and Spices,31,60,IT2481,Cumin Seeds,25,11,Akhilesh,31,KG,06-09-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT7499,Dishwashing Detergent,23,12,Mohit,40,N,06-08-2023
+LG-Ahmedabad,Meat and Protein,16,2,IT9085,"Beef (Ground, Steak, etc.)",26,13,Aakash,45,KG,06-11-2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,30,7,IT0644,Cream,22,13,Sandeep,27,L,06-12-2023
+LG-Ahmedabad,Grains and Pulses,40,240,IT4789,Quinoa,30,11,Aman,55,KG,06-08-2023
+LG-Ahmedabad,Herbs and Spices,21,60,IT3028,Garam Masala,25,12,Akhilesh,60,KG,6/14/2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,19,7,IT0952,Butter,22,13,Sandeep,40,L,06-05-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT6394,Red Chili Powder,25,9,Akhilesh,51,KG,6/15/2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,30,7,IT1285,Almond Milk,22,9,Sandeep,27,L,06-10-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT4562,Takeout Containers,23,45,Mohit,40,N,06-12-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT7213,Mop and Bucket,23,64,Mohit,24,N,06-07-2023
+LG-Ahmedabad,Vegetables,27,2,IT1546,Spinach,20,13,Ankit,28,KG,06-04-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT0814,Aprons,23,37,Mohit,40,N,06-06-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT2250,Coriander Powder,25,12,Akhilesh,44,KG,06-02-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT8053,Disinfectant Spray,23,13,Mohit,40,N,06-07-2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,30,7,IT7528,Butter,22,12,Sandeep,40,L,6/14/2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT5601,Gloves (Disposable and Reusable),23,78,Mohit,40,N,06-04-2023
+LG-Ahmedabad,Grains and Pulses,13,240,IT7808,Chickpeas,30,12,Aman,55,KG,6/13/2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT9821,Dishwashing Soap,23,9,Mohit,26,N,06-06-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,18,180,IT6209,Aprons,23,13,Mohit,34,N,06-01-2023
+LG-Ahmedabad,Vegetables,40,2,IT6133,Green Beans,20,12,Ankit,26,KG,06-10-2023
+LG-Ahmedabad,Meat and Protein,33,2,IT2929,"Fish (Salmon, Tilapia, etc.)",26,11,Aakash,45,KG,6/14/2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT0295,Coriander Powder,25,12,Akhilesh,60,KG,6/13/2023
+LG-Ahmedabad,Vegetables,22,2,IT7447,Bell Peppers,20,19,Ankit,20,KG,06-04-2023
+LG-Ahmedabad,Other Staples,22,180,IT7692,Baking Powder,23,13,Amit,30,L,06-08-2023
+LG-Ahmedabad,Grains and Pulses,33,240,IT2164,Wheat Flour,30,11,Aman,36,KG,06-06-2023
+LG-Ahmedabad,Grains and Pulses,40,240,IT2512,Wheat Flour,30,13,Aman,55,KG,06-02-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT2520,Cumin Seeds,25,11,Akhilesh,60,KG,06-01-2023
+LG-Ahmedabad,Meat and Protein,12,2,IT8030,"Fish (Salmon, Tilapia, etc.)",26,12,Aakash,45,KG,6/13/2023
+LG-Ahmedabad,Meat and Protein,38,2,IT2841,"Fish (Salmon, Tilapia, etc.)",26,9,Aakash,45,KG,06-12-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,18,180,IT3273,Paper Towels,23,7,Mohit,40,N,06-10-2023
+LG-Ahmedabad,Dairy and Dairy Alternatives,30,7,IT6944,Butter,22,11,Sandeep,40,L,06-01-2023
+LG-Ahmedabad,Vegetables,22,2,IT3328,Green Beans,20,13,Ankit,50,KG,6/13/2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT7770,Red Chili Powder,25,12,Akhilesh,60,KG,06-11-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT1708,Garam Masala,25,12,Akhilesh,60,KG,6/14/2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT7755,Paper Towels,23,4,Mohit,24,N,06-06-2023
+LG-Ahmedabad,Other Staples,28,180,IT0787,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,06-03-2023
+LG-Ahmedabad,Grains and Pulses,40,240,IT5452,Wheat Flour,30,12,Aman,55,KG,06-10-2023
+LG-Ahmedabad,Vegetables,40,2,IT7654,Cabbage,20,13,Ankit,41,KG,06-01-2023
+LG-Ahmedabad,Vegetables,39,2,IT7229,Tomatoes,20,5,Ankit,35,KG,06-01-2023
+LG-Ahmedabad,Cleaning and Non-Food Items,29,180,IT7033,Dishwashing Detergent,23,13,Mohit,40,N,06-09-2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT3361,Curry Leaves,25,12,Akhilesh,25,KG,06-12-2023
+LG-Mumbai,Herbs and Spices,40,60,IT4527,Garlic,25,11,Akhilesh,60,KG,06-03-2023
+LG-Mumbai,Meat and Protein,37,2,IT7469,"Chicken (Whole, Breast, Thighs, etc.)",26,9,Aakash,33,KG,6/14/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT8888,Coconut Milk,22,12,Sandeep,25,L,06-01-2023
+LG-Mumbai,Herbs and Spices,40,60,IT3442,Garlic,25,12,Akhilesh,60,KG,06-11-2023
+LG-Mumbai,Other Staples,28,180,IT3323,Noodles,23,13,Amit,35,L,06-06-2023
+LG-Mumbai,Vegetables,40,2,IT8483,Spinach,20,13,Ankit,50,KG,06-04-2023
+LG-Mumbai,Herbs and Spices,40,60,IT2409,Cumin Seeds,25,13,Akhilesh,60,KG,06-08-2023
+LG-Mumbai,Dairy and Dairy Alternatives,24,7,IT8198,Milk,22,13,Sandeep,40,L,6/14/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0507,Takeout Containers,23,41,Mohit,40,N,06-02-2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT5414,Cream,22,11,Sandeep,25,L,06-03-2023
+LG-Mumbai,Grains and Pulses,30,240,IT8396,"Lentils (Masoor, Moong, etc.)",30,11,Aman,55,KG,06-09-2023
+LG-Mumbai,Herbs and Spices,40,60,IT6324,Cumin Seeds,25,11,Akhilesh,37,KG,06-10-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0100,Dishwashing Soap,23,11,Mohit,25,N,06-04-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0581,Toilet Paper,23,90,Mohit,40,N,06-09-2023
+LG-Mumbai,Herbs and Spices,40,60,IT8466,Curry Leaves,25,11,Akhilesh,37,KG,06-02-2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT9435,Coconut Milk,22,13,Sandeep,25,L,06-04-2023
+LG-Mumbai,Cleaning and Non-Food Items,11,180,IT2574,Takeout Containers,23,75,Mohit,40,N,06-10-2023
+LG-Mumbai,Grains and Pulses,40,240,IT5998,Cornmeal,30,9,Aman,55,KG,06-11-2023
+LG-Mumbai,Cleaning and Non-Food Items,18,180,IT0856,Hand Sanitizer,23,13,Mohit,40,N,6/14/2023
+LG-Mumbai,Herbs and Spices,25,60,IT2020,Garam Masala,25,13,Akhilesh,47,KG,06-10-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT9186,Dishwashing Detergent,23,13,Mohit,40,N,06-02-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT3338,Aprons,23,89,Mohit,40,N,6/15/2023
+LG-Mumbai,Meat and Protein,20,2,IT4724,Tofu,26,13,Aakash,37,KG,06-10-2023
+LG-Mumbai,Vegetables,40,2,IT2154,Cabbage,20,13,Ankit,25,KG,06-07-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT7591,Dishwashing Detergent,23,11,Mohit,40,N,6/14/2023
+LG-Mumbai,Cleaning and Non-Food Items,15,180,IT0425,Napkins,23,81,Mohit,40,N,06-10-2023
+LG-Mumbai,Vegetables,39,2,IT1811,Bell Peppers,20,18,Ankit,50,KG,6/15/2023
+LG-Mumbai,Herbs and Spices,40,60,IT1217,Garam Masala,25,11,Akhilesh,30,KG,06-11-2023
+LG-Mumbai,Vegetables,40,2,IT2546,Potatoes,20,10,Ankit,50,KG,06-03-2023
+LG-Mumbai,Herbs and Spices,40,60,IT0521,Turmeric Powder,25,11,Akhilesh,42,KG,06-01-2023
+LG-Mumbai,Grains and Pulses,13,240,IT1733,Wheat Flour,30,13,Aman,33,KG,6/15/2023
+LG-Mumbai,Cleaning and Non-Food Items,18,180,IT9937,Mop and Bucket,23,27,Mohit,29,N,06-11-2023
+LG-Mumbai,Vegetables,35,2,IT1901,Cauliflower,20,9,Ankit,50,KG,06-04-2023
+LG-Mumbai,Vegetables,40,2,IT5409,Spinach,20,12,Ankit,25,KG,06-11-2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT6284,Almond Milk,22,11,Sandeep,40,L,6/15/2023
+LG-Mumbai,Vegetables,40,2,IT3165,Broccoli,20,12,Ankit,50,KG,06-07-2023
+LG-Mumbai,Herbs and Spices,21,60,IT0784,Garlic,25,13,Akhilesh,39,KG,6/15/2023
+LG-Mumbai,Vegetables,24,2,IT1201,Spinach,20,13,Ankit,50,KG,06-05-2023
+LG-Mumbai,Vegetables,40,2,IT4134,Cabbage,20,9,Ankit,26,KG,06-07-2023
+LG-Mumbai,Meat and Protein,38,2,IT5625,"Pork (Chops, Tenderloin, etc.)",26,11,Aakash,33,KG,06-02-2023
+LG-Mumbai,Dairy and Dairy Alternatives,13,7,IT4200,Butter,22,11,Sandeep,31,L,6/13/2023
+LG-Mumbai,Meat and Protein,30,2,IT3364,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,28,KG,6/14/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0758,Paper Towels,23,32,Mohit,31,N,06-06-2023
+LG-Mumbai,Meat and Protein,38,2,IT3324,"Beef (Ground, Steak, etc.)",26,12,Aakash,40,KG,06-05-2023
+LG-Mumbai,Vegetables,35,2,IT8726,Spinach,20,12,Ankit,21,KG,06-10-2023
+LG-Mumbai,Herbs and Spices,40,60,IT3215,Curry Leaves,25,11,Akhilesh,51,KG,6/13/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT4519,Food Storage Containers,23,25,Mohit,40,N,06-07-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0750,Dishwashing Detergent,23,11,Mohit,25,N,06-10-2023
+LG-Mumbai,Meat and Protein,19,2,IT8102,Tofu,26,13,Aakash,45,KG,06-06-2023
+LG-Mumbai,Other Staples,28,180,IT6581,Sugar,23,12,Amit,28,L,06-09-2023
+LG-Mumbai,Other Staples,28,180,IT4365,Sugar,23,11,Amit,35,L,06-06-2023
+LG-Mumbai,Cleaning and Non-Food Items,26,180,IT7935,Aprons,23,84,Mohit,36,N,6/15/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT1332,Cleaning Brushes,23,80,Mohit,40,N,06-12-2023
+LG-Mumbai,Other Staples,28,180,IT3027,Yeast,23,13,Amit,30,L,06-05-2023
+LG-Mumbai,Cleaning and Non-Food Items,23,180,IT1756,Trash Bags,23,11,Mohit,40,N,06-08-2023
+LG-Mumbai,Herbs and Spices,15,60,IT6287,Turmeric Powder,25,12,Akhilesh,28,KG,6/15/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT1188,Broom and Dustpan,23,11,Mohit,35,N,06-03-2023
+LG-Mumbai,Vegetables,40,2,IT9266,Spinach,20,13,Ankit,50,KG,06-05-2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0817,Takeout Containers,23,60,Mohit,40,N,06-02-2023
+LG-Mumbai,Vegetables,40,2,IT1397,Cauliflower,20,11,Ankit,44,KG,06-07-2023
+LG-Mumbai,Cleaning and Non-Food Items,22,180,IT1699,Plastic Cutlery,23,26,Mohit,40,N,06-11-2023
+LG-Mumbai,Meat and Protein,35,2,IT2994,"Fish (Salmon, Tilapia, etc.)",26,9,Aakash,45,KG,06-03-2023
+LG-Mumbai,Grains and Pulses,38,240,IT9306,"Lentils (Masoor, Moong, etc.)",30,9,Aman,40,KG,6/13/2023
+LG-Mumbai,Grains and Pulses,40,240,IT5003,Quinoa,30,11,Aman,46,KG,06-05-2023
+LG-Mumbai,Dairy and Dairy Alternatives,21,7,IT1574,Milk,22,12,Sandeep,40,L,06-07-2023
+LG-BTM Layout,Vegetables,14,2,IT1578,Tomatoes,20,17,Ankit,50,KG,06-12-2023
+LG-BTM Layout,Dairy and Dairy Alternatives,29,7,IT7973,Butter,22,13,Sandeep,40,L,06-12-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT2209,Napkins,23,91,Mohit,34,N,6/14/2023
+LG-BTM Layout,Cleaning and Non-Food Items,25,180,IT3493,Dishwashing Soap,23,9,Mohit,40,N,06-06-2023
+LG-BTM Layout,Herbs and Spices,40,60,IT7000,Garlic,25,9,Akhilesh,29,KG,06-07-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT5668,Dishwashing Detergent,23,9,Mohit,40,N,06-08-2023
+LG-BTM Layout,Herbs and Spices,28,60,IT1569,Bay Leaves,25,9,Akhilesh,60,KG,06-09-2023
+LG-BTM Layout,Cleaning and Non-Food Items,18,180,IT3659,Plastic Cutlery,23,15,Mohit,28,N,6/15/2023
+LG-BTM Layout,Herbs and Spices,32,60,IT5158,Turmeric Powder,25,13,Akhilesh,53,KG,06-08-2023
+LG-BTM Layout,Grains and Pulses,29,240,IT1803,Wheat Flour,30,13,Aman,33,KG,06-04-2023
+LG-BTM Layout,Herbs and Spices,40,60,IT7654,Bay Leaves,25,11,Akhilesh,58,KG,06-01-2023
+LG-BTM Layout,Other Staples,28,180,IT9452,Sugar,23,13,Amit,35,L,6/14/2023
+LG-BTM Layout,Other Staples,28,180,IT9674,Sugar,23,9,Amit,35,L,06-05-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT7292,Broom and Dustpan,23,13,Mohit,40,N,6/15/2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT7765,Food Labels and Markers,23,90,Mohit,40,N,06-12-2023
+LG-BTM Layout,Herbs and Spices,25,60,IT6243,Bay Leaves,25,13,Akhilesh,41,KG,06-04-2023
+LG-BTM Layout,Meat and Protein,38,2,IT5354,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,29,KG,06-03-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT3175,Aprons,23,26,Mohit,30,N,06-05-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT2221,Takeout Containers,23,10,Mohit,25,N,06-01-2023
+LG-BTM Layout,Vegetables,40,2,IT7613,Bell Peppers,20,10,Ankit,50,KG,06-08-2023
+LG-BTM Layout,Other Staples,22,180,IT3578,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,30,L,06-05-2023
+LG-BTM Layout,Herbs and Spices,37,60,IT6259,Curry Leaves,25,13,Akhilesh,34,KG,06-08-2023
+LG-BTM Layout,Vegetables,40,2,IT7755,Potatoes,20,3,Ankit,50,KG,06-11-2023
+LG-BTM Layout,Vegetables,40,2,IT3324,Cabbage,20,9,Ankit,50,KG,6/15/2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT3774,Takeout Containers,23,95,Mohit,40,N,06-09-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT9197,Paper Towels,23,4,Mohit,40,N,06-10-2023
+LG-BTM Layout,Herbs and Spices,24,60,IT4010,Curry Leaves,25,13,Akhilesh,60,KG,06-03-2023
+LG-BTM Layout,Grains and Pulses,16,240,IT8896,Split Peas,30,13,Aman,30,KG,6/13/2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT4764,Takeout Containers,23,2,Mohit,40,N,06-02-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT5100,Gloves (Disposable and Reusable),23,93,Mohit,34,N,06-06-2023
+LG-BTM Layout,Cleaning and Non-Food Items,18,180,IT8450,Aprons,23,62,Mohit,40,N,06-06-2023
+LG-BTM Layout,Meat and Protein,38,2,IT1690,"Pork (Chops, Tenderloin, etc.)",26,9,Aakash,45,KG,06-06-2023
+LG-BTM Layout,Dairy and Dairy Alternatives,28,7,IT4674,Almond Milk,22,13,Sandeep,40,L,06-10-2023
+LG-BTM Layout,Meat and Protein,38,2,IT9860,"Beef (Ground, Steak, etc.)",26,9,Aakash,45,KG,06-11-2023
+LG-BTM Layout,Vegetables,40,2,IT9733,Cabbage,20,13,Ankit,40,KG,6/14/2023
+LG-BTM Layout,Meat and Protein,38,2,IT2000,"Chicken (Whole, Breast, Thighs, etc.)",26,9,Aakash,45,KG,06-09-2023
+LG-BTM Layout,Meat and Protein,14,2,IT3823,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,45,KG,06-02-2023
+LG-BTM Layout,Other Staples,28,180,IT9160,Salt,23,11,Amit,32,L,06-12-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT6141,Food Labels and Markers,23,97,Mohit,40,N,6/13/2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT2073,Cleaning Cloths,23,9,Mohit,40,N,06-07-2023
+LG-BTM Layout,Vegetables,31,2,IT6084,Green Beans,20,11,Ankit,30,KG,06-06-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT7311,Hand Soap,23,11,Mohit,40,N,6/15/2023
+LG-BTM Layout,Meat and Protein,16,2,IT2366,Eggs,26,12,Aakash,45,KG,06-09-2023
+LG-BTM Layout,Herbs and Spices,40,60,IT8188,Ginger,25,9,Akhilesh,60,KG,06-07-2023
+LG-BTM Layout,Meat and Protein,12,2,IT0409,"Chicken (Whole, Breast, Thighs, etc.)",26,9,Aakash,45,KG,6/15/2023
+LG-BTM Layout,Vegetables,36,2,IT3806,Broccoli,20,11,Ankit,50,KG,6/14/2023
+LG-BTM Layout,Herbs and Spices,40,60,IT4138,Cumin Seeds,25,13,Akhilesh,27,KG,06-06-2023
+LG-BTM Layout,Cleaning and Non-Food Items,14,180,IT8538,Plastic Cutlery,23,71,Mohit,33,N,06-02-2023
+LG-BTM Layout,Dairy and Dairy Alternatives,30,7,IT9217,Milk,22,13,Sandeep,31,L,06-12-2023
+LG-BTM Layout,Herbs and Spices,34,60,IT3109,Red Chili Powder,25,9,Akhilesh,60,KG,06-04-2023
+LG-BTM Layout,Vegetables,33,2,IT7950,Potatoes,20,3,Ankit,25,KG,06-06-2023
+LG-BTM Layout,Vegetables,37,2,IT9916,Green Beans,20,12,Ankit,40,KG,06-08-2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT3521,Toilet Paper,23,17,Mohit,40,N,6/14/2023
+LG-BTM Layout,Cleaning and Non-Food Items,29,180,IT4541,Plastic Cutlery,23,59,Mohit,26,N,6/15/2023
+LG-BTM Layout,Other Staples,12,180,IT6199,Pasta,23,13,Amit,35,L,06-06-2023
+LG-BTM Layout,Vegetables,40,2,IT7531,Green Beans,20,13,Ankit,34,KG,6/15/2023
+LG-BTM Layout,Dairy and Dairy Alternatives,30,7,IT8796,Milk,22,13,Sandeep,40,L,6/14/2023
+LG-BTM Layout,Herbs and Spices,40,60,IT3882,Coriander Powder,25,9,Akhilesh,60,KG,06-12-2023
+LG-BTM Layout,Cleaning and Non-Food Items,21,180,IT5435,Dishwashing Detergent,23,13,Mohit,40,N,06-10-2023
+LG-BTM Layout,Dairy and Dairy Alternatives,30,7,IT5253,Milk,22,12,Sandeep,40,L,06-06-2023
+LG-BTM Layout,Vegetables,28,2,IT0623,Bell Peppers,20,18,Ankit,50,KG,06-06-2023
+LG-BTM Layout,Other Staples,17,180,IT3574,Salt,23,11,Amit,35,L,06-02-2023
+LG-BTM Layout,Herbs and Spices,40,60,IT1121,Coriander Powder,25,13,Akhilesh,55,KG,6/13/2023
+LG-BTM Layout,Other Staples,28,180,IT9296,Pasta,23,12,Amit,35,L,06-08-2023
+LG-BTM Layout,Cleaning and Non-Food Items,16,180,IT9782,Broom and Dustpan,23,11,Mohit,26,N,06-11-2023
+LG-Gurugram,Vegetables,11,2,IT3663,Asparagus,20,13,Ankit,50,KG,6/30/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT7807,Gloves (Disposable and Reusable),23,20,Mohit,33,N,6/24/2023
+LG-Gurugram,Dairy and Dairy Alternatives,22,7,IT7305,Goat Cheese,22,52,Sandeep,40,L,6/23/2023
+LG-Gurugram,Dairy and Dairy Alternatives,13,7,IT1261,Almond Milk,22,11,Sandeep,40,L,6/18/2023
+LG-Gurugram,Meat and Protein,36,2,IT6206,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,34,KG,6/25/2023
+LG-Gurugram,Meat and Protein,31,2,IT3989,"Chicken (Whole, Breast, Thighs, etc.)",26,12,Aakash,45,KG,6/26/2023
+LG-Gurugram,Meat and Protein,38,2,IT3187,"Beef (Ground, Steak, etc.)",26,11,Aakash,41,KG,6/21/2023
+LG-Gurugram,Other Staples,20,180,IT9976,Baking Powder,23,13,Amit,30,L,6/19/2023
+LG-Gurugram,Vegetables,40,2,IT9632,Broccoli,20,12,Ankit,50,KG,6/17/2023
+LG-Gurugram,Herbs and Spices,40,60,IT9354,Rosemary,25,69,Akhilesh,60,KG,6/24/2023
+LG-Gurugram,Other Staples,28,180,IT8124,Baking Powder,23,13,Amit,35,L,6/18/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT6565,Trash Bags,23,12,Mohit,40,N,6/21/2023
+LG-Gurugram,Cleaning and Non-Food Items,19,180,IT4408,Food Labels and Markers,23,58,Mohit,40,N,6/16/2023
+LG-Gurugram,Cleaning and Non-Food Items,15,180,IT5918,Dishwashing Soap,23,11,Mohit,40,N,6/21/2023
+LG-Gurugram,Grains and Pulses,40,240,IT9299,"Rice (Basmati, Jasmine, etc.)",30,12,Aman,49,KG,6/26/2023
+LG-Gurugram,Vegetables,13,2,IT3792,Carrots,20,11,Ankit,50,KG,6/16/2023
+LG-Gurugram,Vegetables,40,2,IT5528,Onions,20,6,Ankit,50,KG,6/25/2023
+LG-Gurugram,Herbs and Spices,30,60,IT4730,Paprika,25,2,Akhilesh,60,KG,6/22/2023
+LG-Gurugram,Dairy and Dairy Alternatives,29,7,IT5194,Milk,22,13,Sandeep,29,L,6/17/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT2724,Cleaning Cloths,23,9,Mohit,40,N,6/30/2023
+LG-Gurugram,Vegetables,40,2,IT6987,Eggplant,20,12,Ankit,32,KG,6/21/2023
+LG-Gurugram,Other Staples,28,180,IT9005,Pasta,23,12,Amit,31,L,6/26/2023
+LG-Gurugram,Meat and Protein,38,2,IT5847,Eggs,26,9,Aakash,45,KG,6/21/2023
+LG-Gurugram,Other Staples,11,180,IT8622,Baking Powder,23,13,Amit,35,L,6/21/2023
+LG-Gurugram,Grains and Pulses,28,240,IT7200,Wheat Flour,30,11,Aman,37,KG,6/16/2023
+LG-Gurugram,Herbs and Spices,40,60,IT4671,Cumin Seeds,25,9,Akhilesh,60,KG,6/29/2023
+LG-Gurugram,Vegetables,37,2,IT9342,Cauliflower,20,9,Ankit,50,KG,6/22/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT8995,Foil and Plastic Wrap,23,30,Mohit,36,N,6/19/2023
+LG-Gurugram,Herbs and Spices,25,60,IT2012,Paprika,25,33,Akhilesh,54,KG,6/17/2023
+LG-Gurugram,Grains and Pulses,40,240,IT2085,Barley,30,9,Aman,55,KG,6/18/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT7684,Mop and Bucket,23,45,Mohit,37,N,6/25/2023
+LG-Gurugram,Other Staples,28,180,IT4664,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,6/26/2023
+LG-Gurugram,Cleaning and Non-Food Items,11,180,IT5782,Napkins,23,73,Mohit,33,N,6/21/2023
+LG-Gurugram,Cleaning and Non-Food Items,10,180,IT3961,Trash Bags,23,12,Mohit,35,N,6/16/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT3895,Broom and Dustpan,23,13,Mohit,40,N,6/25/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9537,Broom and Dustpan,23,11,Mohit,28,N,6/25/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT7256,Paper Towels,23,31,Mohit,40,N,6/23/2023
+LG-Gurugram,Herbs and Spices,40,60,IT2222,Rosemary,25,47,Akhilesh,37,KG,6/24/2023
+LG-Gurugram,Vegetables,40,2,IT0618,Asparagus,20,12,Ankit,47,KG,6/16/2023
+LG-Gurugram,Meat and Protein,38,2,IT3678,"Pork (Chops, Tenderloin, etc.)",26,11,Aakash,45,KG,6/25/2023
+LG-Gurugram,Herbs and Spices,20,60,IT8690,Rosemary,25,16,Akhilesh,55,KG,6/28/2023
+LG-Gurugram,Cleaning and Non-Food Items,20,180,IT7720,Broom and Dustpan,23,9,Mohit,40,N,6/16/2023
+LG-Gurugram,Other Staples,28,180,IT7453,Sugar,23,11,Amit,35,L,6/27/2023
+LG-Gurugram,Vegetables,40,2,IT6909,Green Beans,20,9,Ankit,48,KG,6/17/2023
+LG-Gurugram,Other Staples,28,180,IT1988,Vinegar,23,13,Amit,27,L,6/24/2023
+LG-Gurugram,Dairy and Dairy Alternatives,29,7,IT9895,"Cheese (Cheddar, Mozzarella, etc.)",22,13,Sandeep,40,L,6/22/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT6368,Toilet Paper,23,26,Mohit,23,N,6/29/2023
+LG-Gurugram,Dairy and Dairy Alternatives,16,7,IT3925,Coconut Milk,22,11,Sandeep,40,L,6/24/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT7040,Aprons,23,58,Mohit,27,N,6/30/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT0731,Toilet Paper,23,11,Mohit,40,N,6/21/2023
+LG-Gurugram,Herbs and Spices,40,60,IT4850,Rosemary,25,89,Akhilesh,53,KG,6/18/2023
+LG-Gurugram,Herbs and Spices,40,60,IT5255,Rosemary,25,89,Akhilesh,35,KG,6/23/2023
+LG-Gurugram,Dairy and Dairy Alternatives,26,7,IT7051,Coconut Milk,22,13,Sandeep,40,L,6/25/2023
+LG-Gurugram,Herbs and Spices,40,60,IT5136,Oregano,25,85,Akhilesh,60,KG,6/21/2023
+LG-Gurugram,Grains and Pulses,18,240,IT2107,Millet,30,43,Aman,35,KG,6/20/2023
+LG-Gurugram,Grains and Pulses,16,240,IT8431,Quinoa,30,13,Aman,55,KG,6/21/2023
+LG-Gurugram,Herbs and Spices,40,60,IT9860,Bay Leaves,25,12,Akhilesh,59,KG,6/27/2023
+LG-Gurugram,Vegetables,25,2,IT1087,Onions,20,14,Ankit,38,KG,6/22/2023
+LG-Gurugram,Vegetables,28,2,IT1584,Tomatoes,20,5,Ankit,22,KG,6/30/2023
+LG-Gurugram,Dairy and Dairy Alternatives,30,7,IT9050,Milk,22,13,Sandeep,40,L,6/19/2023
+LG-Gurugram,Cleaning and Non-Food Items,29,180,IT9784,Plastic Cutlery,23,76,Mohit,36,N,6/29/2023
+LG-Gurugram,Vegetables,40,2,IT4797,Onions,20,4,Ankit,23,KG,6/28/2023
+LG-Gurugram,Meat and Protein,38,2,IT4140,Eggs,26,11,Aakash,29,KG,6/27/2023
+LG-Gurugram,Vegetables,24,2,IT8352,Green Beans,20,11,Ankit,38,KG,6/29/2023
+LG-Gurugram,Other Staples,11,180,IT5577,Baking Powder,23,9,Amit,32,L,6/29/2023
+LG-Mumbai,Cleaning and Non-Food Items,21,180,IT7014,Foil and Plastic Wrap,23,77,Mohit,40,N,6/19/2023
+LG-Mumbai,Grains and Pulses,40,240,IT1402,Millet,30,4,Aman,33,KG,6/29/2023
+LG-Mumbai,Vegetables,30,2,IT4621,Broccoli,20,12,Ankit,46,KG,6/24/2023
+LG-Mumbai,Vegetables,33,2,IT4485,Zucchini,20,11,Ankit,50,KG,6/21/2023
+LG-Mumbai,Herbs and Spices,40,60,IT3667,Cumin Seeds,25,11,Akhilesh,45,KG,6/28/2023
+LG-Mumbai,Vegetables,40,2,IT7614,Bell Peppers,20,18,Ankit,50,KG,6/23/2023
+LG-Mumbai,Other Staples,28,180,IT4787,Pasta,23,9,Amit,35,L,6/22/2023
+LG-Mumbai,Vegetables,40,2,IT4489,Zucchini,20,13,Ankit,50,KG,6/18/2023
+LG-Mumbai,Grains and Pulses,40,240,IT4151,Chickpeas,30,13,Aman,54,KG,6/28/2023
+LG-Mumbai,Cleaning and Non-Food Items,25,180,IT9043,Food Storage Containers,23,73,Mohit,40,N,6/20/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT0147,Cottage Cheese,22,50,Sandeep,40,L,6/28/2023
+LG-Mumbai,Grains and Pulses,31,240,IT1986,Chickpeas,30,12,Aman,55,KG,6/30/2023
+LG-Mumbai,Other Staples,25,180,IT4932,Pasta,23,11,Amit,35,L,6/24/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT4413,Cleaning Brushes,23,40,Mohit,40,N,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT7437,Food Storage Containers,23,50,Mohit,40,N,6/19/2023
+LG-Mumbai,Grains and Pulses,22,240,IT5957,"Lentils (Masoor, Moong, etc.)",30,12,Aman,55,KG,6/21/2023
+LG-Mumbai,Grains and Pulses,18,240,IT3210,Barley,30,31,Aman,43,KG,6/28/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT8173,Paper Towels,23,10,Mohit,40,N,6/25/2023
+LG-Mumbai,Vegetables,40,2,IT0847,Onions,20,4,Ankit,37,KG,6/21/2023
+LG-Mumbai,Meat and Protein,38,2,IT3223,"Pork (Chops, Tenderloin, etc.)",26,12,Aakash,27,KG,6/29/2023
+LG-Mumbai,Grains and Pulses,40,240,IT8928,Cornmeal,30,13,Aman,38,KG,6/22/2023
+LG-Mumbai,Vegetables,40,2,IT6020,Tomatoes,20,17,Ankit,25,KG,6/21/2023
+LG-Mumbai,Vegetables,40,2,IT2227,Cauliflower,20,9,Ankit,50,KG,6/27/2023
+LG-Mumbai,Dairy and Dairy Alternatives,25,7,IT9236,Butter,22,11,Sandeep,28,L,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,24,180,IT7987,Food Storage Containers,23,72,Mohit,40,N,6/26/2023
+LG-Mumbai,Vegetables,40,2,IT6167,Bell Peppers,20,19,Ankit,50,KG,6/21/2023
+LG-Mumbai,Other Staples,28,180,IT3326,Noodles,23,13,Amit,35,L,6/19/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT2708,Food Storage Containers,23,81,Mohit,23,N,6/28/2023
+LG-Mumbai,Vegetables,40,2,IT8624,Spinach,20,13,Ankit,50,KG,6/24/2023
+LG-Mumbai,Grains and Pulses,40,240,IT2467,"Rice (Basmati, Jasmine, etc.)",30,9,Aman,55,KG,6/22/2023
+LG-Mumbai,Grains and Pulses,40,240,IT8770,Wheat Flour,30,11,Aman,55,KG,6/21/2023
+LG-Mumbai,Cleaning and Non-Food Items,28,180,IT2034,Cleaning Cloths,23,11,Mohit,40,N,6/21/2023
+LG-Mumbai,Cleaning and Non-Food Items,13,180,IT4383,Hand Sanitizer,23,13,Mohit,38,N,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT8745,Plastic Cutlery,23,5,Mohit,40,N,6/26/2023
+LG-Mumbai,Vegetables,40,2,IT6013,Potatoes,20,16,Ankit,26,KG,6/26/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT7904,Cottage Cheese,22,19,Sandeep,40,L,6/24/2023
+LG-Mumbai,Other Staples,14,180,IT6061,Vinegar,23,9,Amit,35,L,6/25/2023
+LG-Mumbai,Herbs and Spices,40,60,IT3553,Garlic,25,12,Akhilesh,60,KG,6/25/2023
+LG-Mumbai,Vegetables,40,2,IT4708,Zucchini,20,11,Ankit,40,KG,6/18/2023
+LG-Mumbai,Dairy and Dairy Alternatives,26,7,IT3935,Cream,22,9,Sandeep,23,L,6/24/2023
+LG-Mumbai,Other Staples,28,180,IT9557,Salt,23,11,Amit,35,L,6/26/2023
+LG-Mumbai,Grains and Pulses,39,240,IT1500,Barley,30,76,Aman,38,KG,6/20/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT3428,Napkins,23,14,Mohit,31,N,6/29/2023
+LG-Mumbai,Other Staples,28,180,IT8966,Baking Powder,23,9,Amit,30,L,6/30/2023
+LG-Mumbai,Meat and Protein,22,2,IT3945,"Chicken (Whole, Breast, Thighs, etc.)",26,11,Aakash,45,KG,6/20/2023
+LG-Mumbai,Other Staples,11,180,IT3992,Sugar,23,13,Amit,35,L,6/29/2023
+LG-Mumbai,Grains and Pulses,23,240,IT0256,Bulgur,30,66,Aman,55,KG,6/23/2023
+LG-Mumbai,Vegetables,20,2,IT0878,Green Beans,20,13,Ankit,31,KG,6/28/2023
+LG-Mumbai,Vegetables,40,2,IT5761,Bell Peppers,20,18,Ankit,45,KG,6/16/2023
+LG-Mumbai,Herbs and Spices,40,60,IT6731,Paprika,25,95,Akhilesh,60,KG,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,15,180,IT0720,Broom and Dustpan,23,12,Mohit,26,N,6/17/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT7062,Cottage Cheese,22,64,Sandeep,37,L,6/30/2023
+LG-Mumbai,Meat and Protein,14,2,IT7814,"Fish (Salmon, Tilapia, etc.)",26,12,Aakash,45,KG,6/28/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT1309,Foil and Plastic Wrap,23,77,Mohit,40,N,6/20/2023
+LG-Mumbai,Grains and Pulses,31,240,IT3478,Millet,30,67,Aman,30,KG,6/20/2023
+LG-Mumbai,Vegetables,14,2,IT2161,Tomatoes,20,5,Ankit,50,KG,6/19/2023
+LG-Mumbai,Vegetables,40,2,IT3382,Tomatoes,20,18,Ankit,50,KG,6/26/2023
+LG-Mumbai,Vegetables,22,2,IT0053,Zucchini,20,12,Ankit,50,KG,6/21/2023
+LG-Mumbai,Herbs and Spices,19,60,IT1345,Garlic,25,12,Akhilesh,60,KG,6/28/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT4145,Dishwashing Soap,23,11,Mohit,25,N,6/20/2023
+LG-Mumbai,Vegetables,38,2,IT5174,Bell Peppers,20,10,Ankit,30,KG,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,24,180,IT1874,Gloves (Disposable and Reusable),23,3,Mohit,24,N,6/25/2023
+LG-Mumbai,Vegetables,25,2,IT6373,Potatoes,20,16,Ankit,28,KG,6/26/2023
+LG-Mumbai,Vegetables,40,2,IT4783,Eggplant,20,13,Ankit,23,KG,6/28/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT5869,Dishwashing Detergent,23,9,Mohit,36,N,6/21/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT1115,Hand Soap,23,9,Mohit,27,N,6/28/2023
+LG-Mumbai,Vegetables,19,2,IT5784,Tomatoes,20,5,Ankit,50,KG,6/20/2023
+LG-Mumbai,Grains and Pulses,40,240,IT7435,Split Peas,30,9,Aman,55,KG,6/29/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT3662,Greek Yogurt,22,24,Amit,31,L,6/25/2023
+LG-Mumbai,Herbs and Spices,40,60,IT2055,Garlic,25,12,Akhilesh,27,KG,6/22/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT9686,Cleaning Cloths,23,9,Mohit,38,N,6/30/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT4167,"Cheese (Cheddar, Mozzarella, etc.)",22,9,Sandeep,40,L,6/24/2023
+LG-Mumbai,Other Staples,28,180,IT7622,Pasta,23,13,Amit,35,L,6/19/2023
+LG-Mumbai,Meat and Protein,38,2,IT4218,Eggs,26,9,Aakash,44,KG,6/16/2023
+LG-Mumbai,Cleaning and Non-Food Items,28,180,IT8028,Trash Bags,23,13,Mohit,40,N,6/19/2023
+LG-Mumbai,Vegetables,13,2,IT7140,Cabbage,20,9,Ankit,42,KG,6/16/2023
+LG-Mumbai,Meat and Protein,38,2,IT2064,"Pork (Chops, Tenderloin, etc.)",26,9,Aakash,45,KG,6/27/2023
+LG-Mumbai,Other Staples,28,180,IT3256,"Cooking Oil (Vegetable, Olive, etc.)",23,12,Amit,32,L,6/26/2023
+LG-Mumbai,Other Staples,28,180,IT6093,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,32,L,6/30/2023
+LG-Mumbai,Other Staples,28,180,IT2059,Salt,23,9,Amit,35,L,6/29/2023
+LG-Mumbai,Vegetables,40,2,IT6810,Green Beans,20,12,Ankit,31,KG,6/30/2023
+LG-Mumbai,Other Staples,28,180,IT0842,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,6/18/2023
+LG-Mumbai,Vegetables,19,2,IT5502,Tomatoes,20,17,Ankit,35,KG,6/20/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT6979,Napkins,23,82,Mohit,27,N,6/30/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT9267,Goat Cheese,22,70,Sandeep,30,L,6/19/2023
+LG-Mumbai,Grains and Pulses,40,240,IT1979,Split Peas,30,11,Aman,43,KG,6/29/2023
+LG-Mumbai,Meat and Protein,19,2,IT0630,"Fish (Salmon, Tilapia, etc.)",26,9,Aakash,43,KG,6/21/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT8060,Greek Yogurt,22,21,Ankit,36,L,6/21/2023
+LG-Mumbai,Grains and Pulses,40,240,IT0590,Cornmeal,30,11,Aman,55,KG,6/27/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT3592,Greek Yogurt,22,21,Sandeep,30,L,6/25/2023
+LG-Mumbai,Meat and Protein,15,2,IT9810,"Fish (Salmon, Tilapia, etc.)",26,13,Aakash,45,KG,6/30/2023
+LG-Mumbai,Herbs and Spices,31,60,IT7860,Red Chili Powder,25,13,Akhilesh,32,KG,6/22/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT6472,Goat Cheese,22,48,Sandeep,29,L,6/25/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT1834,Cleaning Brushes,23,47,Mohit,40,N,6/30/2023
+LG-Mumbai,Vegetables,24,2,IT6601,Brussels Sprouts,20,13,Mohit,38,KG,6/17/2023
+LG-Mumbai,Meat and Protein,26,2,IT6437,"Fish (Salmon, Tilapia, etc.)",26,11,Aakash,26,KG,6/19/2023
+LG-Mumbai,Vegetables,40,2,IT6254,Spinach,20,12,Ankit,34,KG,6/23/2023
+LG-Mumbai,Herbs and Spices,12,60,IT5643,Rosemary,25,83,Akhilesh,41,KG,6/24/2023
+LG-Mumbai,Grains and Pulses,40,240,IT0161,Bulgur,30,49,Aman,30,KG,6/20/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT0346,Yogurt,22,9,Sandeep,40,L,6/16/2023
+LG-Mumbai,Vegetables,40,2,IT9626,Tomatoes,20,18,Ankit,50,KG,6/27/2023
+LG-Mumbai,Vegetables,40,2,IT0860,Cabbage,20,9,Ankit,29,KG,6/27/2023
+LG-Mumbai,Other Staples,28,180,IT8075,Pasta,23,13,Amit,35,L,6/22/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT7594,Butter,22,11,Sandeep,25,L,6/29/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT3399,Food Storage Containers,23,45,Mohit,40,N,6/29/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT5217,Greek Yogurt,22,24,Aman,23,L,6/21/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT5072,Disinfectant Spray,23,12,Mohit,40,N,6/23/2023
+LG-Mumbai,Vegetables,40,2,IT8689,Tomatoes,20,18,Ankit,50,KG,6/22/2023
+LG-Mumbai,Vegetables,40,2,IT1164,Carrots,20,11,Ankit,37,KG,6/18/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT5686,Butter,22,13,Sandeep,39,L,6/22/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT0495,Trash Bags,23,12,Mohit,40,N,6/19/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT9772,Disinfectant Spray,23,9,Mohit,40,N,6/23/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT0346,Cottage Cheese,22,57,Sandeep,23,L,6/23/2023
+LG-Mumbai,Vegetables,40,2,IT7937,Cabbage,20,9,Ankit,50,KG,6/27/2023
+LG-Mumbai,Dairy and Dairy Alternatives,30,7,IT6154,"Cheese (Cheddar, Mozzarella, etc.)",22,12,Sandeep,40,L,6/22/2023
+LG-Mumbai,Meat and Protein,26,2,IT0262,Eggs,26,11,Aakash,45,KG,6/28/2023
+LG-Mumbai,Grains and Pulses,40,240,IT3028,Millet,30,27,Aman,41,KG,6/27/2023
+LG-Mumbai,Vegetables,40,2,IT1560,Broccoli,20,11,Ankit,50,KG,6/30/2023
+LG-Mumbai,Other Staples,28,180,IT4582,"Cooking Oil (Vegetable, Olive, etc.)",23,13,Amit,35,L,6/19/2023
+LG-Mumbai,Cleaning and Non-Food Items,29,180,IT2812,Broom and Dustpan,23,11,Mohit,40,N,6/18/2023
+LG-Mumbai,Grains and Pulses,11,240,IT5870,"Lentils (Masoor, Moong, etc.)",30,11,Aman,45,KG,6/18/2023
+LG-Mumbai,Vegetables,40,2,IT7784,Potatoes,20,16,Ankit,50,KG,6/27/2023
+LG-Mumbai,Grains and Pulses,40,240,IT1173,Millet,30,56,Aman,36,KG,6/20/2023
+LG-Mumbai,Vegetables,25,2,IT9033,Carrots,20,11,Ankit,50,KG,6/19/2023
+LG-Mumbai,Grains and Pulses,36,240,IT0998,Cornmeal,30,12,Aman,55,KG,6/28/2023
+LG-Mumbai,Herbs and Spices,40,60,IT0825,Coriander Powder,25,12,Akhilesh,60,KG,6/26/2023
+LG-Mumbai,Vegetables,11,2,IT6490,Cauliflower,20,11,Ankit,50,KG,6/26/2023
+LG-Mumbai,Vegetables,29,2,IT4457,Potatoes,20,16,Ankit,50,KG,6/18/2023
+LG-Mumbai,Grains and Pulses,14,240,IT9888,Wheat Flour,30,12,Aman,37,KG,6/19/2023
+LG-Mumbai,Grains and Pulses,40,240,IT2882,Cornmeal,30,13,Aman,35,KG,6/26/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT9186,Oregano,25,63,Akhilesh,60,KG,6/25/2023
+LG-Hyderabad,Grains and Pulses,27,240,IT2331,Bulgur,30,86,Aman,55,KG,6/29/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT7465,Aprons,23,14,Mohit,40,N,6/20/2023
+LG-Hyderabad,Herbs and Spices,34,60,IT2344,Garam Masala,25,9,Akhilesh,60,KG,6/30/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT9234,Cleaning Cloths,23,13,Mohit,31,N,6/17/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT7318,Food Labels and Markers,23,34,Mohit,28,N,6/17/2023
+LG-Hyderabad,Herbs and Spices,20,60,IT5744,Coriander Powder,25,11,Akhilesh,60,KG,6/28/2023
+LG-Hyderabad,Other Staples,28,180,IT1317,Salt,23,12,Amit,35,L,6/28/2023
+LG-Hyderabad,Cleaning and Non-Food Items,10,180,IT4883,Hand Sanitizer,23,13,Mohit,40,N,6/24/2023
+LG-Hyderabad,Vegetables,40,2,IT0534,Asparagus,20,13,Ankit,50,KG,6/25/2023
+LG-Hyderabad,Vegetables,40,2,IT0324,Kale,20,12,Sandeep,50,KG,6/19/2023
+LG-Hyderabad,Cleaning and Non-Food Items,16,180,IT9804,Paper Towels,23,34,Mohit,40,N,6/18/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT9786,Food Labels and Markers,23,87,Mohit,40,N,6/22/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT6875,Fenugreek Seeds,25,22,Akhilesh,31,KG,6/26/2023
+LG-Hyderabad,Vegetables,23,2,IT9981,Cabbage,20,13,Ankit,50,KG,6/16/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT1702,Garam Masala,25,11,Akhilesh,42,KG,6/26/2023
+LG-Hyderabad,Vegetables,40,2,IT0167,Spinach,20,12,Ankit,22,KG,6/22/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT4341,Plastic Cutlery,23,67,Mohit,40,N,6/23/2023
+LG-Hyderabad,Meat and Protein,34,2,IT4619,"Pork (Chops, Tenderloin, etc.)",26,9,Aakash,45,KG,6/17/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,23,7,IT3246,Coconut Milk,22,11,Sandeep,36,L,6/20/2023
+LG-Hyderabad,Vegetables,40,2,IT9783,Spinach,20,12,Ankit,50,KG,6/20/2023
+LG-Hyderabad,Cleaning and Non-Food Items,14,180,IT2660,Takeout Containers,23,12,Mohit,40,N,6/28/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT5858,Coconut Milk,22,9,Sandeep,40,L,6/20/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT8729,Disinfectant Spray,23,12,Mohit,27,N,6/21/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT2227,Takeout Containers,23,80,Mohit,40,N,6/16/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT6171,Food Storage Containers,23,23,Mohit,37,N,6/19/2023
+LG-Hyderabad,Vegetables,40,2,IT0049,Zucchini,20,13,Ankit,50,KG,6/16/2023
+LG-Hyderabad,Vegetables,40,2,IT5623,Cabbage,20,13,Ankit,50,KG,6/18/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT4888,Milk,22,13,Sandeep,40,L,6/18/2023
+LG-Hyderabad,Herbs and Spices,34,60,IT3359,Turmeric Powder,25,13,Akhilesh,43,KG,6/28/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT9924,Garlic,25,11,Akhilesh,56,KG,6/16/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT2460,Garam Masala,25,11,Akhilesh,60,KG,6/20/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT6331,Cleaning Cloths,23,12,Mohit,40,N,6/29/2023
+LG-Hyderabad,Meat and Protein,24,2,IT4954,"Fish (Salmon, Tilapia, etc.)",26,9,Aakash,45,KG,6/16/2023
+LG-Hyderabad,Cleaning and Non-Food Items,17,180,IT6531,Cleaning Brushes,23,77,Mohit,40,N,6/29/2023
+LG-Hyderabad,Meat and Protein,31,2,IT1542,Tofu,26,13,Aakash,43,KG,6/26/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT8376,Cleaning Cloths,23,13,Mohit,27,N,6/30/2023
+LG-Hyderabad,Herbs and Spices,39,60,IT9367,Garlic,25,11,Akhilesh,60,KG,6/27/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT0656,Garam Masala,25,12,Akhilesh,48,KG,6/21/2023
+LG-Hyderabad,Vegetables,40,2,IT0414,Bell Peppers,20,19,Ankit,50,KG,6/30/2023
+LG-Hyderabad,Cleaning and Non-Food Items,27,180,IT9274,Paper Towels,23,28,Mohit,37,N,6/22/2023
+LG-Hyderabad,Meat and Protein,15,2,IT1060,Eggs,26,11,Aakash,45,KG,6/23/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,26,7,IT2761,Almond Milk,22,9,Sandeep,31,L,6/27/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT3198,Goat Cheese,22,34,Sandeep,40,L,6/30/2023
+LG-Hyderabad,Grains and Pulses,12,240,IT2476,Wheat Flour,30,9,Aman,55,KG,6/28/2023
+LG-Hyderabad,Other Staples,28,180,IT6085,Salt,23,12,Amit,35,L,6/18/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT3482,Napkins,23,19,Mohit,40,N,6/22/2023
+LG-Hyderabad,Vegetables,33,2,IT2505,Cauliflower,20,11,Ankit,30,KG,6/27/2023
+LG-Hyderabad,Other Staples,28,180,IT9808,Salt,23,12,Amit,29,L,6/17/2023
+LG-Hyderabad,Dairy and Dairy Alternatives,30,7,IT6077,Yogurt,22,11,Sandeep,36,L,6/17/2023
+LG-Hyderabad,Vegetables,33,2,IT4080,Broccoli,20,12,Ankit,28,KG,6/16/2023
+LG-Hyderabad,Cleaning and Non-Food Items,28,180,IT4220,Dishwashing Detergent,23,13,Mohit,28,N,6/20/2023
+LG-Hyderabad,Herbs and Spices,40,60,IT3057,Paprika,25,97,Akhilesh,35,KG,6/26/2023
+LG-Hyderabad,Cleaning and Non-Food Items,12,180,IT1485,Paper Towels,23,3,Mohit,28,N,6/18/2023
+LG-Hyderabad,Vegetables,40,2,IT7143,Spinach,20,13,Ankit,50,KG,6/23/2023
+LG-Hyderabad,Grains and Pulses,35,240,IT1196,Barley,30,29,Aman,35,KG,6/21/2023
+LG-Hyderabad,Other Staples,12,180,IT7251,Salt,23,12,Amit,35,L,6/29/2023
+LG-Hyderabad,Cleaning and Non-Food Items,23,180,IT5217,Hand Soap,23,13,Mohit,30,N,6/17/2023
+LG-Hyderabad,Other Staples,28,180,IT2770,"Cooking Oil (Vegetable, Olive, etc.)",23,13,Amit,33,L,6/30/2023
+LG-Hyderabad,Vegetables,40,2,IT9167,Potatoes,20,10,Ankit,49,KG,6/17/2023
+LG-Hyderabad,Grains and Pulses,18,240,IT8987,Barley,30,55,Aman,55,KG,6/26/2023
+LG-Hyderabad,Grains and Pulses,40,240,IT4418,Cornmeal,30,13,Aman,41,KG,6/20/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT9003,Trash Bags,23,11,Mohit,27,N,6/21/2023
+LG-Hyderabad,Other Staples,28,180,IT9326,Pasta,23,11,Amit,35,L,6/25/2023
+LG-Hyderabad,Cleaning and Non-Food Items,29,180,IT1145,Disinfectant Spray,23,9,Mohit,40,N,6/22/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT9959,Mop and Bucket,23,16,Mohit,37,N,6/16/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT8643,Hand Soap,23,11,Mohit,40,N,6/19/2023
+LG-Whitefield,Cleaning and Non-Food Items,24,180,IT1100,Food Labels and Markers,23,57,Mohit,32,N,6/16/2023
+LG-Whitefield,Other Staples,28,180,IT2588,Baking Powder,23,9,Amit,35,L,6/20/2023
+LG-Whitefield,Vegetables,40,2,IT9308,Green Beans,20,13,Ankit,50,KG,6/19/2023
+LG-Whitefield,Herbs and Spices,40,60,IT3682,Garam Masala,25,12,Akhilesh,35,KG,6/19/2023
+LG-Whitefield,Vegetables,30,2,IT6475,Broccoli,20,11,Ankit,27,KG,6/21/2023
+LG-Whitefield,Herbs and Spices,40,60,IT0679,Garlic,25,13,Akhilesh,52,KG,6/25/2023
+LG-Whitefield,Other Staples,13,180,IT4706,Noodles,23,13,Amit,35,L,6/17/2023
+LG-Whitefield,Other Staples,14,180,IT5624,Noodles,23,9,Amit,35,L,6/30/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT4711,Paper Towels,23,44,Mohit,40,N,6/22/2023
+LG-Whitefield,Herbs and Spices,40,60,IT6201,Garlic,25,13,Akhilesh,33,KG,6/20/2023
+LG-Whitefield,Herbs and Spices,24,60,IT8158,Rosemary,25,78,Akhilesh,57,KG,6/27/2023
+LG-Whitefield,Grains and Pulses,40,240,IT9637,Bulgur,30,7,Aman,30,KG,6/17/2023
+LG-Whitefield,Vegetables,40,2,IT2945,Onions,20,14,Ankit,21,KG,6/30/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT2727,Trash Bags,23,12,Mohit,34,N,6/27/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT0693,Gloves (Disposable and Reusable),23,61,Mohit,40,N,6/24/2023
+LG-Whitefield,Cleaning and Non-Food Items,16,180,IT5752,Paper Towels,23,14,Mohit,40,N,6/16/2023
+LG-Whitefield,Meat and Protein,38,2,IT1821,"Chicken (Whole, Breast, Thighs, etc.)",26,11,Aakash,45,KG,6/29/2023
+LG-Whitefield,Other Staples,28,180,IT7205,Salt,23,12,Amit,35,L,6/21/2023
+LG-Whitefield,Herbs and Spices,40,60,IT9074,Turmeric Powder,25,12,Akhilesh,35,KG,6/21/2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT6623,Coconut Milk,22,9,Sandeep,40,L,6/27/2023
+LG-Whitefield,Herbs and Spices,40,60,IT4354,Red Chili Powder,25,12,Akhilesh,35,KG,6/29/2023
+LG-Whitefield,Dairy and Dairy Alternatives,18,7,IT5195,Cream,22,9,Sandeep,40,L,6/24/2023
+LG-Whitefield,Meat and Protein,38,2,IT1257,"Pork (Chops, Tenderloin, etc.)",26,11,Aakash,45,KG,6/17/2023
+LG-Whitefield,Dairy and Dairy Alternatives,30,7,IT3379,Yogurt,22,11,Sandeep,37,L,6/30/2023
+LG-Whitefield,Vegetables,40,2,IT2598,Potatoes,20,10,Ankit,25,KG,6/20/2023
+LG-Whitefield,Cleaning and Non-Food Items,29,180,IT4359,Food Storage Containers,23,7,Mohit,32,N,6/17/2023
+LG-Whitefield,Herbs and Spices,40,60,IT2634,Curry Leaves,25,12,Akhilesh,50,KG,6/29/2023
+LG-Whitefield,Vegetables,40,2,IT9382,Carrots,20,11,Ankit,50,KG,6/19/2023
+LG-HSR Layout,Herbs and Spices,40,60,IT3604,Garam Masala,25,9,Akhilesh,48,KG,6/30/2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT9989,Coconut Milk,22,13,Sandeep,39,L,6/29/2023
+LG-HSR Layout,Vegetables,40,2,IT7369,Tomatoes,20,11,Ankit,50,KG,6/23/2023
+LG-HSR Layout,Vegetables,27,2,IT3361,Asparagus,20,12,Ankit,26,KG,6/21/2023
+LG-HSR Layout,Vegetables,16,2,IT5604,Kale,20,12,Ankit,50,KG,6/18/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT4952,Paper Towels,23,45,Mohit,40,N,6/17/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT9553,Toilet Paper,23,61,Mohit,40,N,6/27/2023
+LG-HSR Layout,Vegetables,28,2,IT1953,Spinach,20,13,Ankit,31,KG,6/19/2023
+LG-HSR Layout,Vegetables,15,2,IT1456,Cabbage,20,9,Ankit,50,KG,6/16/2023
+LG-HSR Layout,Vegetables,40,2,IT2037,Green Beans,20,12,Ankit,50,KG,6/21/2023
+LG-HSR Layout,Herbs and Spices,37,60,IT4587,Bay Leaves,25,11,Akhilesh,54,KG,6/30/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT2322,Food Storage Containers,23,69,Mohit,40,N,6/24/2023
+LG-HSR Layout,Grains and Pulses,28,240,IT9821,Millet,30,92,Aman,33,KG,6/22/2023
+LG-HSR Layout,Herbs and Spices,14,60,IT2369,Red Chili Powder,25,9,Akhilesh,60,KG,6/24/2023
+LG-HSR Layout,Grains and Pulses,22,240,IT2913,Split Peas,30,13,Aman,38,KG,6/22/2023
+LG-HSR Layout,Herbs and Spices,26,60,IT7223,Bay Leaves,25,12,Akhilesh,60,KG,6/24/2023
+LG-HSR Layout,Vegetables,40,2,IT2036,Tomatoes,20,17,Ankit,38,KG,6/19/2023
+LG-HSR Layout,Herbs and Spices,19,60,IT4736,Coriander Powder,25,11,Akhilesh,35,KG,6/26/2023
+LG-HSR Layout,Grains and Pulses,34,240,IT5044,"Lentils (Masoor, Moong, etc.)",30,13,Aman,55,KG,6/19/2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT9764,Almond Milk,22,12,Sandeep,40,L,6/19/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT2134,Gloves (Disposable and Reusable),23,19,Mohit,40,N,6/20/2023
+LG-HSR Layout,Vegetables,34,2,IT6123,Asparagus,20,12,Ankit,50,KG,6/16/2023
+LG-HSR Layout,Other Staples,28,180,IT2115,Salt,23,9,Amit,31,L,6/18/2023
+LG-HSR Layout,Herbs and Spices,18,60,IT8741,Fenugreek Seeds,25,22,Akhilesh,60,KG,6/28/2023
+LG-HSR Layout,Herbs and Spices,40,60,IT4775,Red Chili Powder,25,12,Akhilesh,27,KG,6/24/2023
+LG-HSR Layout,Vegetables,40,2,IT4421,Onions,20,4,Ankit,50,KG,6/20/2023
+LG-HSR Layout,Meat and Protein,38,2,IT4750,Tofu,26,9,Aakash,45,KG,6/28/2023
+LG-HSR Layout,Meat and Protein,18,2,IT1866,"Fish (Salmon, Tilapia, etc.)",26,12,Aakash,27,KG,6/23/2023
+LG-HSR Layout,Grains and Pulses,40,240,IT9870,Split Peas,30,11,Aman,46,KG,6/19/2023
+LG-HSR Layout,Other Staples,19,180,IT3007,Noodles,23,12,Amit,35,L,6/19/2023
+LG-HSR Layout,Other Staples,11,180,IT7619,Vinegar,23,12,Amit,35,L,6/27/2023
+LG-HSR Layout,Other Staples,14,180,IT3882,Salt,23,13,Amit,35,L,6/16/2023
+LG-HSR Layout,Other Staples,28,180,IT7583,"Cooking Oil (Vegetable, Olive, etc.)",23,11,Amit,35,L,6/23/2023
+LG-HSR Layout,Dairy and Dairy Alternatives,30,7,IT0961,Yogurt,22,13,Sandeep,40,L,6/20/2023
+LG-HSR Layout,Herbs and Spices,40,60,IT5665,Coriander Powder,25,12,Akhilesh,60,KG,6/30/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT2239,Food Labels and Markers,23,70,Mohit,24,N,6/25/2023
+LG-HSR Layout,Herbs and Spices,40,60,IT8460,Garlic,25,11,Akhilesh,31,KG,6/17/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT8963,Hand Sanitizer,23,12,Mohit,24,N,6/18/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT6363,Cleaning Brushes,23,56,Mohit,25,N,6/17/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT7932,Mop and Bucket,23,14,Mohit,35,N,6/25/2023
+LG-HSR Layout,Grains and Pulses,38,240,IT9458,Wheat Flour,30,9,Aman,41,KG,6/26/2023
+LG-HSR Layout,Grains and Pulses,40,240,IT1178,Chickpeas,30,11,Aman,30,KG,6/20/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT4933,Hand Sanitizer,23,11,Mohit,40,N,6/18/2023
+LG-HSR Layout,Grains and Pulses,40,240,IT7750,Millet,30,14,Aman,43,KG,6/16/2023
+LG-HSR Layout,Cleaning and Non-Food Items,29,180,IT9541,Dishwashing Soap,23,9,Mohit,26,N,6/19/2023
+LG-Ahmedabad,Vegetables,40,2,IT8799,Carrots,20,7,Ankit,50,KG,6/18/2023
+LG-Ahmedabad,Other Staples,28,180,IT7611,Baking Powder,23,12,Amit,35,L,6/29/2023
+LG-Ahmedabad,Vegetables,40,2,IT0656,Bell Peppers,20,18,Ankit,34,KG,6/18/2023
+LG-Ahmedabad,Other Staples,28,180,IT2008,"Cooking Oil (Vegetable, Olive, etc.)",23,9,Amit,26,L,6/30/2023
+LG-Ahmedabad,Cleaning and Non-Food Items,22,180,IT4639,Takeout Containers,23,63,Mohit,40,N,6/28/2023
+LG-Ahmedabad,Cleaning and Non-Food Items,19,180,IT1767,Paper Towels,23,43,Mohit,33,N,6/21/2023
+LG-Ahmedabad,Herbs and Spices,40,60,IT0686,Coriander Powder,25,13,Akhilesh,60,KG,6/23/2023
+LG-Ahmedabad,Herbs and Spices,20,60,IT1333,Turmeric Powder,25,11,Akhilesh,32,KG,6/28/2023
+LG-Ahmedabad,Grains and Pulses,40,240,IT7618,Cornmeal,30,13,Aman,55,KG,6/20/2023
+LG-Ahmedabad,Vegetables,21,2,IT5756,Cauliflower,20,9,Ankit,50,KG,6/20/2023
+LG-Ahmedabad,Other Staples,28,180,IT1097,"Cooking Oil (Vegetable, Olive, etc.)",23,12,Amit,26,L,6/18/2023
+LG-Ahmedabad,Grains and Pulses,28,240,IT0242,Cornmeal,30,12,Aman,34,KG,6/23/2023
+LG-Ahmedabad,Vegetables,40,2,IT5467,Onions,20,4,Ankit,46,KG,6/27/2023
+LG-Ahmedabad,Other Staples,28,180,IT3972,Sugar,23,9,Amit,28,L,6/26/2023
+LG-Ahmedabad,Meat and Protein,38,2,IT1689,"Chicken (Whole, Breast, Thighs, etc.)",26,9,Aakash,45,KG,6/16/2023
