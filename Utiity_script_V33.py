@@ -1,4 +1,4 @@
-class Person_V10:
+class Person_V11:
   def __init__(self, name, age):
     self.name = name
     self.age = age
