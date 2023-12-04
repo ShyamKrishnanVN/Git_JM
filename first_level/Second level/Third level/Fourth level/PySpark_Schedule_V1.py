@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 def input_fun():
     from Notebook.DSNotebook.NotebookExecutor import NotebookExecutor
     nb = NotebookExecutor()
