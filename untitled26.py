@@ -7,7 +7,7 @@ logging_level = logging.DEBUG
 logger.setLevel(logging_level)
 import boto3
 from botocore.exceptions import ClientError
-import pandas as pd
+import pandas as pds
 
 def get_athena_connection(REGION_NAME,AWS_ACCESS_KEY_ID,AWS_SECRET_ACCESS_KEY):
    
