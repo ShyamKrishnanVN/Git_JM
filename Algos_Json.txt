@@ -1,0 +1,30 @@
+Forecasting - {
+    "data": "\"{\\\"algoName\\\":[\\\"ARIMA(X), SARIMA(X)\\\",\\\"AutoARIMA\\\",\\\"Exponential Smoothing\\\",\\\"N-BEATS\\\",\\\"Prophet\\\",\\\"Random Forest\\\"]}\"",
+    "success": true
+}
+
+
+Unsupervised - Clustering - {
+    "data": "\"{\\\"algoNames\\\":[\\\"KMeans\\\",\\\"KMeans++\\\",\\\"Spectral Clustering\\\",\\\"Agglomerative Clustering\\\",\\\"DBSCAN\\\",\\\"OPTICS\\\"]}\"",
+    "success": true
+}
+
+
+Unsupervised - Anomaly detection - {
+    "data": "\"{\\\"algoNames\\\":[\\\"Elliptic Envelope\\\",\\\"Local Outlier Factor\\\",\\\"One Class SVM\\\",\\\"SGD One Class SVM\\\",\\\"Isolation Forest\\\"]}\"",
+    "success": true
+}
+
+
+
+Natural Language Processing - Sequence classification - {
+    "data": "\"{\\\"algoNames\\\":[\\\"Sentiment Analysis\\\",\\\"Topic Labelling\\\",\\\"Zero-Shot Classification\\\"]}\"",
+    "success": true
+}
+
+Natural Language Processing - Token classfication {
+    "data": "\"{\\\"algoNames\\\":[\\\"Named Entity Recognition\\\",\\\"Part of Speech Tagging\\\", \\\"Summerization\\\"]}\"",
+    "success": true
+}
+
+Natural Language Processing - Summerization
