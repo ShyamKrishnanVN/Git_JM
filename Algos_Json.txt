@@ -1,6 +1,7 @@
 Forecasting - {
     "data": "\"{\\\"algoName\\\":[\\\"ARIMA(X), SARIMA(X)\\\",\\\"AutoARIMA\\\",\\\"Exponential Smoothing\\\",\\\"N-BEATS\\\",\\\"Prophet\\\",\\\"Random Forest\\\"]}\"",
     "success": true
+    "mydata" : Test
 }
 
 

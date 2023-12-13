@@ -8,7 +8,8 @@ logger.setLevel(logging_level)
 import boto3
 from botocore.exceptions import ClientError
 import pandas as pds
-
+#Test now 
+def()
 def get_athena_connection(REGION_NAME,AWS_ACCESS_KEY_ID,AWS_SECRET_ACCESS_KEY):
    
     athena_client = boto3.client(
