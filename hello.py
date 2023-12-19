@@ -4,4 +4,4 @@ class Person:
     self.age = age
 
   def myfunc(self):
-    print("Hello my name is " + self.name)
+    print("Hello my name is JM_New " + self.name)
