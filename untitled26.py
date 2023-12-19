@@ -1,13 +1,17 @@
 from io import BytesIO
-from time import perf_counter
-import logging
-logging.basicConfig()
+from time import perf_counter 
+import logging 
+logging.basicConfig() 
 logger = logging.getLogger('MTA')
 logging_level = logging.DEBUG
 logger.setLevel(logging_level)
 import boto3
 from botocore.exceptions import ClientError
+<<<<<<< HEAD
 import pandas as pd
+=======
+import pandas
+>>>>>>> 6c187ccc1a553b1acae2e641c3fc9dcb6d2afa44
 #Test now 
 def()
 def get_athena_connection(REGION_NAME,AWS_ACCESS_KEY_ID,AWS_SECRET_ACCESS_KEY):
