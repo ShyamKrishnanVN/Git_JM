@@ -1,4 +1,4 @@
 from Notebook.DSNotebook.NotebookExecutor import NotebookExecutor
 nb = NotebookExecutor()
 df = nb.get_data('11561698303005142', '@SYS.USERID', 'False', {}, [])
-df.head(15)
+df.head(10)
