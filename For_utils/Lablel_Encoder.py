@@ -1,5 +1,5 @@
 from sklearn.preprocessing import LabelEncoder
-import pandas as pd
+import pandas as pdd
 
 def label_encoder(df, input_col, output_col):
     le = LabelEncoder()
