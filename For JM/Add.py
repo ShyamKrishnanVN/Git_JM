@@ -1,3 +1,3 @@
 # utils.py
-def add_numbers(a, b):
+def add_number(a, b):
     return a + b
