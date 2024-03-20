@@ -1,2 +1,1 @@
-New file
-EOL
+#This is to check the pull from git functionality.
