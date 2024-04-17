@@ -1,0 +1,17 @@
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+tensorflow==2.6.0
+torch==1.9.0
+nltk==3.6.5
+spaCy==3.1.3
+Flask==2.0.2
+Django==3.2.6
+SQLAlchemy==1.4.25
+psycopg2==2.9.1
+pymysql==1.0.2
+requests==2.26.0
+beautifulsoup4==4.10.0
+pytest==6.2.5
